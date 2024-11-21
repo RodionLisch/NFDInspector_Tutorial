@@ -3,3 +3,7 @@ matplotlib
 numpy
 ghp-import
 NFDInspector
+lxml
+pandas
+datetime
+os
