@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/23438</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Strecke in hölzernem Polygonausbau, Bergmannsglück</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160014501</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Blick in eine Strecke mit hölzernem Türstockausbau und eingezogenem Polygonausbau; Fahrdraht</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">509958</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Johann Schmidt (Fotograf) (1896-1967)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/119280051</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199525</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Schmidt, Johann (Fotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Johann Schmidt (Fotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1896</lido:earliestDate>
+                    <lido:latestDate>1967</lido:latestDate>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1933</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1933</lido:displayDate>
+              <lido:displayDate xml:lang="de">1933</lido:displayDate>
+              <lido:displayDate xml:lang="en">1933</lido:displayDate>
+              <lido:displayDate xml:lang="es">1933</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1933</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1933</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1933</lido:displayDate>
+              <lido:displayDate xml:lang="id">1933</lido:displayDate>
+              <lido:displayDate xml:lang="it">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1933年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1933년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1933</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1933</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1933</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1933</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1933</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1933年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1933</lido:earliestDate>
+                <lido:latestDate>1933</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">509959</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Verein_f%C3%BCr_die_bergbaulichen_Interessen_im_Oberbergamtsbezirk_Dortmund</lido:actorID>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/39023-9</lido:actorID>
+                  <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2007059781</lido:actorID>
+                  <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/129584920</lido:actorID>
+                  <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1732815</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199185</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1933</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1933</lido:displayDate>
+              <lido:displayDate xml:lang="de">1933</lido:displayDate>
+              <lido:displayDate xml:lang="en">1933</lido:displayDate>
+              <lido:displayDate xml:lang="es">1933</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1933</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1933</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1933</lido:displayDate>
+              <lido:displayDate xml:lang="id">1933</lido:displayDate>
+              <lido:displayDate xml:lang="it">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1933年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1933년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1933</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1933</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1933</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1933</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1933</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1933</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1933年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1933</lido:earliestDate>
+                <lido:latestDate>1933</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">غلزنكيرشن</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="el">Γκελζενκίρχεν</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">گلزنکیرشن</lido:displayPlace>
+                <lido:displayPlace xml:lang="fi">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="he">גלזנקירכן</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="id">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">ゲルゼンキルヒェン</lido:displayPlace>
+                <lido:displayPlace xml:lang="ka">გელზენკირხენი</lido:displayPlace>
+                <lido:displayPlace xml:lang="ko">겔젠키르헨</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Гельзенкирхен</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="sw">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="th">เก็ลเซินเคียร์เชิน</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Гельзенкірхен</lido:displayPlace>
+                <lido:displayPlace xml:lang="vi">Gelsenkirchen</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">盖尔森基兴</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2921466</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7005080</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4019947-2</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2765</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1288</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">غلزنكيرشن</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="el">Γκελζενκίρχεν</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">گلزنکیرشن</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fi">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="he">גלזנקירכן</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="id">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">ゲルゼンキルヒェン</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ka">გელზენკირხენი</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ko">겔젠키르헨</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Гельзенкирхен</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sw">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="th">เก็ลเซินเคียร์เชิน</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Гельзенкірхен</lido:appellationValue>
+                    <lido:appellationValue xml:lang="vi">Gelsenkirchen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">盖尔森基兴</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.516666412354 7.0999999046326</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Zeche Bergmannsglück (Steinkohlenbergwerk, Gelsenkirchen) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/108627</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Zeche Bergmannsglück (Steinkohlenbergwerk, Gelsenkirchen)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos> </gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055633</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4175197-8</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85104637.html</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q37555</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Polygon</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11272</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Polygon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">مضلع</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">বহুভুজ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">mnohoúhelník</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">polygon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Polygon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Πολύγωνο</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">polygon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">polígono</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">چندضلعی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">monikulmio</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">polygone</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">מצולע</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">बहुभुज</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">sokszög</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">poligon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">poligono</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">多角形</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">მრავალკუთხედი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">다각형</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">veelhoek</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">wielokąt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">polígono</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">многоугольник</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">polygon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Pembenyingi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">பல்கோணம்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">รูปหลายเหลี่ยม</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Poligon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Çokgen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">многокутник</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">کثیرالاضلاع</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">đa giác</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">多边形</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/96023</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Ausbau</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/99718</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Türstock</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/114149</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Ausbau, Holz</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=290436</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">23438</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/23438</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:34</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">30801</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92db377c2a.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92db377c2a.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=290436&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Strecke in hölzernem Polygonausbau, Bergmannsglück</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

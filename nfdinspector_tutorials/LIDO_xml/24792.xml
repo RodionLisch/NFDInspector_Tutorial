@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/24792</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Treppe und Füllstelle einer Erzrolle, 19. Jahrhundert, Grube Bastenberg, Ramsbeck</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160153601</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Untertägige Aufnahme; links eine in Gestein gehauene Treppe, rechts Füllstelle mit Holrahmen</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">513086</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karl Block (Museumsfotograf)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199526</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Block, Karl (Museumsfotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Karl Block (Museumsfotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1958</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1958</lido:displayDate>
+              <lido:displayDate xml:lang="de">1958</lido:displayDate>
+              <lido:displayDate xml:lang="en">1958</lido:displayDate>
+              <lido:displayDate xml:lang="es">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1958</lido:displayDate>
+              <lido:displayDate xml:lang="id">1958</lido:displayDate>
+              <lido:displayDate xml:lang="it">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1958年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1958년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1958</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1958年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1958</lido:earliestDate>
+                <lido:latestDate>1958</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">513087</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Julius Raub (Kustos)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/169021</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Raub, Julius (Kustos)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Julius Raub (Kustos)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1958</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1958</lido:displayDate>
+              <lido:displayDate xml:lang="de">1958</lido:displayDate>
+              <lido:displayDate xml:lang="en">1958</lido:displayDate>
+              <lido:displayDate xml:lang="es">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1958</lido:displayDate>
+              <lido:displayDate xml:lang="id">1958</lido:displayDate>
+              <lido:displayDate xml:lang="it">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1958年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1958년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1958</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1958年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1958</lido:earliestDate>
+                <lido:latestDate>1958</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">513088</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karl Block (Museumsfotograf)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199526</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Block, Karl (Museumsfotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Karl Block (Museumsfotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1958</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1958</lido:displayDate>
+              <lido:displayDate xml:lang="de">1958</lido:displayDate>
+              <lido:displayDate xml:lang="en">1958</lido:displayDate>
+              <lido:displayDate xml:lang="es">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1958</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1958</lido:displayDate>
+              <lido:displayDate xml:lang="id">1958</lido:displayDate>
+              <lido:displayDate xml:lang="it">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1958年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1958년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1958</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1958</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1958</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1958</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1958年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1958</lido:earliestDate>
+                <lido:latestDate>1958</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectDate>
+                <lido:displayDate>1800-1899</lido:displayDate>
+                <lido:displayDate xml:lang="ar">1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="de">1800-1890er Jahre</lido:displayDate>
+                <lido:displayDate xml:lang="en">1800-1890s</lido:displayDate>
+                <lido:displayDate xml:lang="es">1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="fa">دهه 1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="fr">Années 1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="hu">1800-1890-es évek</lido:displayDate>
+                <lido:displayDate xml:lang="id">Tahun 1800-an sampai tahun 1890-an</lido:displayDate>
+                <lido:displayDate xml:lang="it">1800-1890s</lido:displayDate>
+                <lido:displayDate xml:lang="ja">1800年代から1890年代</lido:displayDate>
+                <lido:displayDate xml:lang="ka">1800-1890-იანი წლები</lido:displayDate>
+                <lido:displayDate xml:lang="ko">1800-1890 년대</lido:displayDate>
+                <lido:displayDate xml:lang="pl">1800-1890 roku</lido:displayDate>
+                <lido:displayDate xml:lang="pt">Décadas de 1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="ro">Anii 1800-1890</lido:displayDate>
+                <lido:displayDate xml:lang="ru">1800-1890-е годы</lido:displayDate>
+                <lido:displayDate xml:lang="ta">1800-1890 கள்</lido:displayDate>
+                <lido:displayDate xml:lang="tl">1800-1890s</lido:displayDate>
+                <lido:displayDate xml:lang="tr">1800-1890'ler</lido:displayDate>
+                <lido:displayDate xml:lang="uk">1800-1890-ті роки</lido:displayDate>
+                <lido:displayDate xml:lang="zh">1800年代-1890年代</lido:displayDate>
+                <lido:date>
+                  <lido:earliestDate>1800</lido:earliestDate>
+                  <lido:latestDate>1899</lido:latestDate>
+                </lido:date>
+              </lido:subjectDate>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Ramsbeck (Region) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/108648</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Ramsbeck (Region)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos> </gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Zeche Ramsbeck (Erzbergwerk, Ramsbeck) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/108649</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Zeche Ramsbeck (Erzbergwerk, Ramsbeck)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos> </gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054328</lido:conceptID>
+                <lido:conceptID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX525128</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb13318444z</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002827-6</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006507</lido:conceptID>
+                <lido:conceptID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00566298</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23498</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Arch%C3%A4ologie</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2458</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Archäologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">علم الآثار</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">археология</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">প্রত্নতত্ত্ব</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Archeologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkæologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Archäologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχαιολογία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Archaeology</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Arqueología</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">باستان‌شناسی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkeologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Archéologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">ארכאולוגיה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">पुरातत्त्वशास्त्र</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">régészet</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Arkeologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Archeologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">考古学</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქეოლოგია</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">고고학</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Archeologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Archeologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arqueologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">arheologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">археология</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkeologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Akiolojia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">தொல்பொருளியல்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">โบราณคดี</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkeolohiya</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Arkeoloji</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">археологія</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">آثاریات</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">khảo cổ học</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">考古學</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4015469-5</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9807</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Erzbergbau</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300051244</lido:conceptID>
+                <lido:conceptID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX533049</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12308407d</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4178428-5</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/41A3411</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85044776</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15003</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Rolltreppe</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/50518</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Fahrtreppe (Rolltreppe)</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">سلم متحرك</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">ескалатор</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">এস্কেলেটর</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Eskalátor</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Rulletrappe</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Fahrtreppe (Rolltreppe)</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">κυλιόμενη σκάλα</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Escalator</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Escalera mecánica</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">پله برقی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Liukuportaat</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Escalier mécanique</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">דרגנוע</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">चलसोपान</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">mozgólépcső</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Eskalator</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Scala mobile</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">エスカレーター</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">ესკალატორი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">에스컬레이터</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Roltrap</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Schody ruchome</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Escada rolante</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">escalator</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">эскалатор</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Rulltrappa</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">நகர்படி</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">บันไดเลื่อน</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Yürüyen merdiven</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">ескалатор</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">متحرک زینہ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">thang cuốn</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">電動扶梯</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=291823</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">24792</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/24792</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:38</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">32155</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e930bd3a7f3.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e930bd3a7f3.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=291823&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Treppe und Füllstelle einer Erzrolle, 19. Jahrhundert, Grube Bastenberg, Ramsbeck</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

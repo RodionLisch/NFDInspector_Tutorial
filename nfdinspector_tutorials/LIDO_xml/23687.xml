@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/23687</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Hafenanlage Hibernia, Verladung</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160039801</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Hafenanlage mit Verladekränen und Binnenschiffen; Kohlehalden im Hintergrund</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">510587</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Johann Schmidt (Fotograf) (1896-1967)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/119280051</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199525</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Schmidt, Johann (Fotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Johann Schmidt (Fotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1896</lido:earliestDate>
+                    <lido:latestDate>1967</lido:latestDate>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1936</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1936</lido:displayDate>
+              <lido:displayDate xml:lang="de">1936</lido:displayDate>
+              <lido:displayDate xml:lang="en">1936</lido:displayDate>
+              <lido:displayDate xml:lang="es">1936</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1936</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1936</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1936</lido:displayDate>
+              <lido:displayDate xml:lang="id">1936</lido:displayDate>
+              <lido:displayDate xml:lang="it">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1936年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1936년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1936</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1936</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1936</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1936</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1936</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1936年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1936</lido:earliestDate>
+                <lido:latestDate>1936</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">510588</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Verein_f%C3%BCr_die_bergbaulichen_Interessen_im_Oberbergamtsbezirk_Dortmund</lido:actorID>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/39023-9</lido:actorID>
+                  <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2007059781</lido:actorID>
+                  <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/129584920</lido:actorID>
+                  <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1732815</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199185</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1936</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1936</lido:displayDate>
+              <lido:displayDate xml:lang="de">1936</lido:displayDate>
+              <lido:displayDate xml:lang="en">1936</lido:displayDate>
+              <lido:displayDate xml:lang="es">1936</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1936</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1936</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1936</lido:displayDate>
+              <lido:displayDate xml:lang="id">1936</lido:displayDate>
+              <lido:displayDate xml:lang="it">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1936年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1936년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1936</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1936</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1936</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1936</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1936</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1936</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1936年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1936</lido:earliestDate>
+                <lido:latestDate>1936</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectActor>
+                <lido:displayActor>Bergwerksgesellschaft Hibernia (Herne). Zechenbahn- und Hafenverwaltung</lido:displayActor>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/272245</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Bergwerksgesellschaft Hibernia (Herne). Zechenbahn- und Hafenverwaltung</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:subjectActor>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055244</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb13318486w</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4062901-6</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85137027</lido:conceptID>
+                <lido:conceptID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00566818</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q7590</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Verkehr</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/702</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">نقل</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">পরিবহন</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Doprava</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Μεταφορές</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Transporte</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">ترابری</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Liikenne</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">תחבורה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">परिवहन</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">szállítás</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Transportasi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Trasporto</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">交通</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტრანსპორტი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">운송</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vervoer</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Transporte</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">транспорт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Usafiri</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">போக்குவரத்து</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">การขนส่ง</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Transportasyon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Ulaşım</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">транспорт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">ٹرانسپورٹ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">vận tải</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">运输</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4116383-7</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85121579</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q155930</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schifffahrt</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/929</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Schifffahrt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">نقل مائي</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">নৌ পরিবহন</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vodní doprava</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Søfart</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Schifffahrt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Maritime transport</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Transporte naval</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">ترابری دریایی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Merenkulku</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Transport maritime</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">जल परिवहन</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">vízi közlekedés</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Transportasi air</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Trasporto navale</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">海運</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">წყლის ტრანსპორტი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">해운</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Scheepvaart</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Żegluga</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Transporte hidroviário</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Navigație</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">водный транспорт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sjöfart</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">கப்பல் போக்குவரத்து</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Yük gemisi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">водний транспорт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">船运</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300120599</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4022859-9</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/46C223/</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85058838</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q44782</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Hafen</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2504</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Hafen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">ميناء</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">বন্দর</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Přístav</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Havn</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Hafen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">λιμάνι</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Port</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Puerto</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">بندر</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Satama</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Port</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">נמל</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">बंदरगाह</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">kikötő</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Pelabuhan</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Porto</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">港湾</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">항구</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Haven</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Port wodny</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Porto</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Port</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">порт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Hamn</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Bandari asilia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">துறைமுகம்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">ท่าเรือ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Daungan</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Liman</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">порт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">بندرگاہ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">cảng</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">港口</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4006761-0</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85066478</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q499814</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Binnenschifffahrt</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10070</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Binnenschifffahrt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Flodfart</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Binnenschifffahrt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Inland navigation</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Navegación interior</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">ناوبری آبراهه</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sisämaan vesiliikenne</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Transport fluvial</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">Belvízi hajózás</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Angkutan sungai</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Fluitazione</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Binnenvaart</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">żegluga śródlądowa</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Navegação interior</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">Речной транспорт</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">内河航运</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=290688</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">23687</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/23687</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:35</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">31050</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92e3c40e83.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92e3c40e83.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=290688&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Hafenanlage Hibernia, Verladung</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

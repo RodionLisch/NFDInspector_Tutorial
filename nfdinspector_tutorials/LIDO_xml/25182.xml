@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/25182</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/133450</lido:conceptID>
+            <lido:term xml:lang="de">Negativ</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Quarzblöcke (Quarzit) an einem Wäscheplatz für Kupfererze, "Kleine Leuchte", Waldeck</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160125902</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Zwei größere Steine mit hellen Einschlüssen; Waldboden</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">513822</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karl Block (Museumsfotograf)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199526</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Block, Karl (Museumsfotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Karl Block (Museumsfotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1952 (?)</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="de">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="en">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="es">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fa">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fr">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="hu">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="id">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="it">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ja">1952年 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ka">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ko">1952년 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pl">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pt">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ro">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ru">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ta">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tl">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tr">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="uk">1952 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="zh">1952年 (?)
+                                                        </lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1952</lido:earliestDate>
+                <lido:latestDate>1952</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Waldeck (Stadt)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">فالدك (مدينة)</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Waldeck</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Waldeck (Stadt)</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Waldeck, Hesse</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Waldeck (Hesse)</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">والدک، هسن</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Waldeck (Hesse)</lido:displayPlace>
+                <lido:displayPlace xml:lang="he">ולדק</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Waldeck (Hessen)</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Waldeck (Assia)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">ヴァルデック</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Waldeck (Hessen)</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Waldeck (Hesja)</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Waldeck (am Edersee)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Waldeck</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Вальдек (Эдерзе)</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Waldeck (şehir)</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Вальдек</lido:displayPlace>
+                <lido:displayPlace xml:lang="vi">Waldeck</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">瓦尔代克</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6557839</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1136985</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4064374-8</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q540107</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/3906</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Waldeck (Stadt)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">فالدك (مدينة)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Waldeck</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Waldeck (Stadt)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Waldeck, Hesse</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Waldeck (Hesse)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">والدک، هسن</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Waldeck (Hesse)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="he">ולדק</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Waldeck (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Waldeck (Assia)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">ヴァルデック</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Waldeck (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Waldeck (Hesja)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Waldeck (am Edersee)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Waldeck</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Вальдек (Эдерзе)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Waldeck (şehir)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Вальдек</lido:appellationValue>
+                    <lido:appellationValue xml:lang="vi">Waldeck</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">瓦尔代克</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.200000762939 9.0666666030884</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300011623</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4176627-1</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85109740</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q237883</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Quarzit</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3997</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Quarzit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">كوارتزيت</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">Кварцит</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">কোয়ার্টজাইট</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kvarcit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Quarzit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Quartzite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Cuarcita</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">کوارتزیت</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kvartsiitti</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Quartzite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">קוורציט</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Kuarsit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Quarzite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">珪岩</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">კვარციტი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">규암</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kwartsiet</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kwarcyt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Quartzito</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">cuarțit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">кварцит</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kvartsit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kuvarsit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">Кварцит</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Quartzit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">石英岩</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/99337</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Kupfererzbergbau</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=292243</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">25182</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/25182</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:39</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">32546</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e931ac46f45.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e931ac46f45.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=292243&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Quarzblöcke (Quarzit) an einem Wäscheplatz für Kupfererze, "Kleine Leuchte", Waldeck</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

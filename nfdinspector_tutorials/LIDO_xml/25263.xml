@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/25263</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/133450</lido:conceptID>
+            <lido:term xml:lang="de">Negativ</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Zeche Neumühl, Hamborn, Schichtungen im Sandstein, Flöz Girondelle</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160143202</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Ansicht von Schichtungen im Sandstein im Flöz Girondelle; Maßstab angelehnt an das Gestein; loses Gestein liegt unterhalb</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">514053</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karl Block (Museumsfotograf)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199526</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Block, Karl (Museumsfotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Karl Block (Museumsfotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1953</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1953</lido:displayDate>
+              <lido:displayDate xml:lang="de">1953</lido:displayDate>
+              <lido:displayDate xml:lang="en">1953</lido:displayDate>
+              <lido:displayDate xml:lang="es">1953</lido:displayDate>
+              <lido:displayDate xml:lang="fa">1953</lido:displayDate>
+              <lido:displayDate xml:lang="fr">1953</lido:displayDate>
+              <lido:displayDate xml:lang="hu">1953</lido:displayDate>
+              <lido:displayDate xml:lang="id">1953</lido:displayDate>
+              <lido:displayDate xml:lang="it">1953</lido:displayDate>
+              <lido:displayDate xml:lang="ja">1953年</lido:displayDate>
+              <lido:displayDate xml:lang="ka">1953</lido:displayDate>
+              <lido:displayDate xml:lang="ko">1953년</lido:displayDate>
+              <lido:displayDate xml:lang="pl">1953</lido:displayDate>
+              <lido:displayDate xml:lang="pt">1953</lido:displayDate>
+              <lido:displayDate xml:lang="ro">1953</lido:displayDate>
+              <lido:displayDate xml:lang="ru">1953</lido:displayDate>
+              <lido:displayDate xml:lang="ta">1953</lido:displayDate>
+              <lido:displayDate xml:lang="tl">1953</lido:displayDate>
+              <lido:displayDate xml:lang="tr">1953</lido:displayDate>
+              <lido:displayDate xml:lang="uk">1953</lido:displayDate>
+              <lido:displayDate xml:lang="zh">1953年</lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1953</lido:earliestDate>
+                <lido:latestDate>1953</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">دويسبورغ</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="el">Ντούισμπουργκ</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Duisburgo</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">دویسبورگ</lido:displayPlace>
+                <lido:displayPlace xml:lang="fi">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Duisbourg</lido:displayPlace>
+                <lido:displayPlace xml:lang="ha">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="he">דיסבורג</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="id">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">デュースブルク</lido:displayPlace>
+                <lido:displayPlace xml:lang="ka">დუისბურგი</lido:displayPlace>
+                <lido:displayPlace xml:lang="ko">뒤스부르크</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Duisburgo</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Дуйсбург</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="sw">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="th">ดืสบวร์ค</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Дуйсбург</lido:displayPlace>
+                <lido:displayPlace xml:lang="ur">ڈیسبورگ</lido:displayPlace>
+                <lido:displayPlace xml:lang="vi">Duisburg</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">杜伊斯堡</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3231901</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004923</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4013284-5</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2100</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1220</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">دويسبورغ</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="el">Ντούισμπουργκ</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Duisburgo</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">دویسبورگ</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fi">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Duisbourg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ha">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="he">דיסבורג</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="id">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">デュースブルク</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ka">დუისბურგი</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ko">뒤스부르크</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Duisburgo</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Дуйсбург</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sw">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="th">ดืสบวร์ค</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Дуйсбург</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ur">ڈیسبورگ</lido:appellationValue>
+                    <lido:appellationValue xml:lang="vi">Duisburg</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">杜伊斯堡</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.432220458984 6.7611112594604</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Zeche Neumühl (Steinkohlenbergwerk, Duisburg) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/108645</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Zeche Neumühl (Steinkohlenbergwerk, Duisburg)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos> </gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300011376</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4127360-6</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/10064</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85117245</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q13085</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Sandstein</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2248</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Sandstein</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">حجر رملي</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pískovec</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Sandsten</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Sandstein</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Ψαμμίτης</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Sandstone</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Arenisca</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">ماسه‌سنگ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Hiekkakivi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Grès</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">אבן חול</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">बलुआ पत्थर</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">homokkő</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Batu pasir</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Arenaria</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">砂岩</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">ქვიშაქვა</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">사암</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Zandsteen</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Piaskowiec</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arenito</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Gresie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">песчаник</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sandsten</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jiwe mchanga</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">மணற்கல்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">หินทราย</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kumtaşı</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">пісковик</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Cát kết</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">砂岩</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054546</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4020227-6</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85054037</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1069</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Geologie</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4080</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Geologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">جيولوجيا</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">ভূতত্ত্ব</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Geologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Geologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Geologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Γεωλογία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Geology</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Geología</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">زمین‌شناسی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Geologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Géologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">גאולוגיה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">भूविज्ञान</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">geológia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Geologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Geologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">地質学</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">გეოლოგია</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">지질학</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Geologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Geologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Geologia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">geologie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">геология</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Geologi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jiolojia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலவியல்</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">ธรณีวิทยา</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Heolohiya</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Jeoloji</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">геологія</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">ارضیات</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">địa chất học</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">地质学</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=292325</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">25263</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/25263</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:39</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">32627</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e931de3d75b.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e931de3d75b.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=292325&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Zeche Neumühl, Hamborn, Schichtungen im Sandstein, Flöz Girondelle</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

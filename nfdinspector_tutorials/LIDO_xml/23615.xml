@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/23615</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Praktische Ausbildung der Bergjungleute in der Anlernwerkstatt (Schlosserei)</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160032501</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Zwei Bergjungleute schmieden auf dem Amboss, Ausbilder beobachtet; Im Hintergrund weitere Bergjungleute an Ambossen und eine Esse</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">510366</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Johann Schmidt (Fotograf) (1896-1967)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/119280051</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199525</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Schmidt, Johann (Fotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Johann Schmidt (Fotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate>1896</lido:earliestDate>
+                    <lido:latestDate>1967</lido:latestDate>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1930-1945 (?)</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="de">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="en">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="es">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fa">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="hu">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="id">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="it">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ja">1930年から1945年 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ka">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ko">1930년-1945년 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pt">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ro">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ru">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ta">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="uk">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="zh">1930年至1945年 (?)
+                                                        </lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1930</lido:earliestDate>
+                <lido:latestDate>1945</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">510367</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Verein_f%C3%BCr_die_bergbaulichen_Interessen_im_Oberbergamtsbezirk_Dortmund</lido:actorID>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/39023-9</lido:actorID>
+                  <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2007059781</lido:actorID>
+                  <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/129584920</lido:actorID>
+                  <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1732815</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199185</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1930-1945 (?)</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="de">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="en">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="es">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fa">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="hu">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="id">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="it">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ja">1930年から1945年 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ka">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ko">1930년-1945년 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pt">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ro">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ru">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ta">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="uk">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="zh">1930年至1945年 (?)
+                                                        </lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1930</lido:earliestDate>
+                <lido:latestDate>1945</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054360</lido:conceptID>
+                <lido:conceptID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX527117</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4006650-2</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/49A</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85040989</lido:conceptID>
+                <lido:conceptID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00567137</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8434</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ausbildung</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3187</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Ausbildung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">تعليم</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">শিক্ষা</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vzdělávání</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Uddannelse</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Ausbildung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">εκπαίδευση</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Education</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Educación</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">آموزش و پرورش</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Koulutus</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">éducation</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ha">Ilimi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">חינוך</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">शिक्षा</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">oktatás</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Pendidikan</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Educazione</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">教育</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">განათლება</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">교육</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Onderwijs</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Edukacja</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Educação</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">educație</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">образование</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Utbildning</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">elimu</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">கல்வி</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">การศึกษา</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tl">Edukasyon</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Eğitim</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">освіта</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">تعلیم</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">giáo dục</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">教育</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025911</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4035114-2</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/47E231/</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh94002089</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q253567</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Auszubildender</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7980</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Lehrling</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">تمهن</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Lærling</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Lehrling</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Apprentice</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Aprendiz</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">کارآموزی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Apprentice ~ guild</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Apprenti</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">שוליה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">apprentice</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Apprendista</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">訓練生</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">도제</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Leerling in beroepsopleiding</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Ucenicie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">ученичество</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Lärling</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">การฝึกงาน</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Çırak</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">學徒</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300007734</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb11948058x</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4179807-7</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85050752</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q40558</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schmiede</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/17444</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Schmiede (Werkstatt)</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kovárna</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Smedje</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Schmiede (Werkstatt)</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Smithy</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Fragua</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">کوره آهنگری</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sepän paja</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Forge</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Fucina</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">대장간</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Smederij</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kuźnia</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Forja</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Fierărie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">кузница</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Smedja</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">кузня</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">rèn tự do</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">熔炉</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=290615</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">23615</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/23615</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:35</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">30978</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92e1739c49.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92e1739c49.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=290615&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Praktische Ausbildung der Bergjungleute in der Anlernwerkstatt (Schlosserei)</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

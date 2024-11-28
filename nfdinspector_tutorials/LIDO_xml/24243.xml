@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/24243</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Aachband im Streb auf Zeche Concordia</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160097701</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Aachband in einem Streb mit Holzstempeln</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">511748</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Gebr. Eickhoff Maschinenfabrik und Eisengießerei</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gebr._Eickhoff_Maschinenfabrik_und_Eisengie%C3%9Ferei</lido:actorID>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/2011271-3</lido:actorID>
+                  <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/153080150</lido:actorID>
+                  <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1497097</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/21930</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Eickhoff (Firma)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Gebr. Eickhoff Maschinenfabrik und Eisengießerei</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Gebr. Eickhoff Maschinenfabrik und Eisengießerei</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Gebr. Eickhoff Maschinenfabrik und Eisengießerei</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteID lido:type="local">511748</lido:descriptiveNoteID>
+              <lido:descriptiveNoteValue>Rolle der Person/Körperschaft: Stifter</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote/>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">أوبرهاوزن</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="el">Όμπερχαουζεν</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">اوبرهاوزن</lido:displayPlace>
+                <lido:displayPlace xml:lang="fi">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Oberhausen (Rhénanie-du-Nord-Westphalie)</lido:displayPlace>
+                <lido:displayPlace xml:lang="he">אוברהאוזן</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Oberhausen (Észak-Rajna-Vesztfália)</lido:displayPlace>
+                <lido:displayPlace xml:lang="id">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">オーバーハウゼン</lido:displayPlace>
+                <lido:displayPlace xml:lang="ka">ობერჰაუზენი</lido:displayPlace>
+                <lido:displayPlace xml:lang="ko">오버하우젠</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Oberhausen (Noordrijn-Westfalen)</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Оберхаузен</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="sw">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="th">โอเบอร์เฮาเซิน</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Обергаузен</lido:displayPlace>
+                <lido:displayPlace xml:lang="vi">Oberhausen</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">奥伯豪森</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3247437</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7013481</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4042927-1</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2838</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1231</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">أوبرهاوزن</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="el">Όμπερχαουζεν</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">اوبرهاوزن</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fi">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Oberhausen (Rhénanie-du-Nord-Westphalie)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="he">אוברהאוזן</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Oberhausen (Észak-Rajna-Vesztfália)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="id">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">オーバーハウゼン</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ka">ობერჰაუზენი</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ko">오버하우젠</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Oberhausen (Noordrijn-Westfalen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Оберхаузен</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sw">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="th">โอเบอร์เฮาเซิน</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Обергаузен</lido:appellationValue>
+                    <lido:appellationValue xml:lang="vi">Oberhausen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">奥伯豪森</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.469898223877 6.8513998985291</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Zeche Concordia (Steinkohlenbergwerk, Oberhausen) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/108602</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Zeche Concordia (Steinkohlenbergwerk, Oberhausen)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos> </gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/114158</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Transportband</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=291265</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">24243</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/24243</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:37</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">31606</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92f67bebee.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92f67bebee.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=291265&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Aachband im Streb auf Zeche Concordia</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

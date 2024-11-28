@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/25171</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/133450</lido:conceptID>
+            <lido:term xml:lang="de">Negativ</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Abbaustoß im Braunkohlentagebau Altenburg I bei Borken</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160124802</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Ansicht des Abbaustoßes mit klar erkennbarer Verzahnung und Flözschichten infolge der Gewinnung durch Schaufelradbagger</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">513789</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karl Block (Museumsfotograf)</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199526</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Block, Karl (Museumsfotograf)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Karl Block (Museumsfotograf)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1950-1965 (?)</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="de">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="en">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="es">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fa">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fr">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="hu">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="id">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="it">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ja">1950年から1965年 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ka">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ko">1950년-1965년 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pl">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pt">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ro">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ru">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ta">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tl">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tr">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="uk">1950-1965 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="zh">1950年至1965年 (?)
+                                                        </lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1950</lido:earliestDate>
+                <lido:latestDate>1965</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">بوركن (هسن) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Borken, Hesse (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Borken (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">برکن (هسن) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Borken (Hesse) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">ボルケン (ヘッセン) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Borken (Hesse) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Боркен (Гессен) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Borken (Hessen) (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Боркен (?)</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">博爾肯 (黑森州) (?)</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2946230</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1038601</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4080472-0</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q565488</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/75615</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">بوركن (هسن)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Borken, Hesse</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Borken</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">برکن (هسن)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Borken (Hesse)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">ボルケン (ヘッセン)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Borken (Hesse)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Боркен (Гессен)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Borken (Hessen)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Боркен</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">博爾肯 (黑森州)</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.033332824707 9.2666664123535</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectActor>
+                <lido:displayActor>Altenburg I (Braunkohlentagebau, Borken)</lido:displayActor>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/268469</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Altenburg I (Braunkohlentagebau, Borken)</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:subjectActor>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300211957</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008048-1</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85076947</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q156267</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Braunkohle</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/644</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Braunkohle</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">فحم بني</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">লিগনাইট</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hnědé uhlí</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Brunkul</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Braunkohle</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Λιγνίτης</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Lignite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Lignito</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">زغال قهوه‌ای</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Ruskohiili</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Lignite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">ליגניט</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">लिग्नाइट</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">barnakőszén</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Lignit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Lignite</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">褐炭</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">갈탄</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bruinkool</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Węgiel brunatny</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lignito</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ro">Lignit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">бурый уголь</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Brunkol</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">ลิกไนต์</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Linyit</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">буре вугілля</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Than nâu</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">褐煤</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300000402</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4057145-2</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129129</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q188040</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tagebau</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/645</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Tagebau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">مقلع</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Lom</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="da">Dagbrud</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Tagebau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Ορυχείο</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Quarry</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Cantera</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">معدن سنگ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Louhos</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Carrière</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">מחצבה</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">खादान</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Galian</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Cava</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">採石場</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">კარიერი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">채석장</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Groeve</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kopalnia odkrywkowa</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pedreira</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">карьер</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Dagbrott</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Taş ocağı</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">кар´єр</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Mỏ đá</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">沙石场</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4128488-4</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q306093</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Abbau_(Bergbau)</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/100652</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Abbau (Bergbau)</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Abbau</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Mineral extraction</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Exploitation minière</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">добыча полезных ископаемых</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">видобування корисних копалин</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=292232</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">25171</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/25171</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:39</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">32535</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e931a62dec9.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e931a62dec9.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=292232&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Abbaustoß im Braunkohlentagebau Altenburg I bei Borken</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

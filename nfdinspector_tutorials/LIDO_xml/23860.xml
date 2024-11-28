@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/23860</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Schlachttag in der Bergmannssiedlung Köttingen</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160057801</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Zwei Männer beim Zerteilen eines geschlachteten Schweins auf einem Tisch im Freien; Backsteingebäude im Hintergrund</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">511106</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Verein_f%C3%BCr_die_bergbaulichen_Interessen_im_Oberbergamtsbezirk_Dortmund</lido:actorID>
+                  <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/39023-9</lido:actorID>
+                  <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2007059781</lido:actorID>
+                  <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/129584920</lido:actorID>
+                  <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1732815</lido:actorID>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199185</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Verein für die bergbaulichen Interessen im Oberbergamtsbezirk Dortmund</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:eventDate>
+              <lido:displayDate>1930-1945 (?)</lido:displayDate>
+              <lido:displayDate xml:lang="ar">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="de">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="en">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="es">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fa">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="fr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="hu">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="id">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="it">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ja">1930年から1945年 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ka">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ko">1930년-1945년 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="pt">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ro">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ru">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="ta">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tl">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="tr">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="uk">1930-1945 (?)
+                                                        </lido:displayDate>
+              <lido:displayDate xml:lang="zh">1930年至1945年 (?)
+                                                        </lido:displayDate>
+              <lido:date>
+                <lido:earliestDate>1930</lido:earliestDate>
+                <lido:latestDate>1945</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Köttingen (Erftstadt)</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Köttingen (Erftstadt)</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Köttingen</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Köttingen</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Köttingen</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2885123</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4830152-8</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1246869</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/82062</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Köttingen (Erftstadt)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Köttingen (Erftstadt)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Köttingen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Köttingen</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Köttingen</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>50.827800750732 6.8054299354553</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">إرفتشتات</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">ارفتشتات</lido:displayPlace>
+                <lido:displayPlace xml:lang="fi">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">エアフトシュタット</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Эрфтштадт</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Erftstadt</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Ерфтштадт</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">埃尔夫特施塔特</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6557535</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1038995</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4015235-2</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4195</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/82063</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">إرفتشتات</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">ارفتشتات</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fi">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">エアフトシュタット</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Эрфтштадт</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Erftstadt</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Ерфтштадт</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">埃尔夫特施塔特</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>50.816665649414 6.7666668891907</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Okres Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Rhein-Erft District</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">راين-ارفت-كرايس</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Arrondissement de Rhin-Erft</lido:displayPlace>
+                <lido:displayPlace xml:lang="id">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">circondario del Reno-Erft</lido:displayPlace>
+                <lido:displayPlace xml:lang="ka">რაინ-ერფტის რაიონი</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Powiat Rhein-Erft</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Рейн-Эрфт</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Rhein-Erft-Kreis</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Райн-Ерфт</lido:displayPlace>
+                <lido:displayPlace xml:lang="vi">Rhein-Erft</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">莱茵-埃尔夫特县</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3247454</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4015234-0</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q6292</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/6664</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Okres Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Rhein-Erft District</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">راين-ارفت-كرايس</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Arrondissement de Rhin-Erft</lido:appellationValue>
+                    <lido:appellationValue xml:lang="id">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">circondario del Reno-Erft</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ka">რაინ-ერფტის რაიონი</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Powiat Rhein-Erft</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Рейн-Эрфт</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Rhein-Erft-Kreis</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Райн-Ерфт</lido:appellationValue>
+                    <lido:appellationValue xml:lang="vi">Rhein-Erft</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">莱茵-埃尔夫特县</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>50.919998168945 6.6700000762939</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4113857-0</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q333740</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Hausschlachtung</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/221</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Hausschlachtung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Zabijačka</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Hausschlachtung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Pig slaughter</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Matanza del cerdo</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Abattage des porcs</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">disznótor</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">マタンサ</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Świniobicie</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">Забой свиней</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">Giết mổ lợn</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">殺豬</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300254388</lido:conceptID>
+                <lido:conceptID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb11931346v</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4117220-6</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12771</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85005169</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q80962</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tierhaltung</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4667</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Tierhaltung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ar">تربية الحيوان</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bg">Животновъдство</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="bn">পশুপালনবিদ্যা</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">Chov zvířat</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Tierhaltung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">Κτηνοτροφία</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Animal husbandry</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">Ganadería</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fa">دامداری</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fi">Karjanhoito</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">élevage</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ha">Kiwo</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="he">גידול בעלי חיים</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hi">पशुपालन</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="hu">állattartás</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">Peternakan</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">Allevamento</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">畜産</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">მეცხოველეობა</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ko">축산</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">Veeteelt</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Chów</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pecuária</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">животноводство</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sv">Djurskötsel</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ufugaji</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ta">கால்நடை வளர்ப்பு</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="th">สัตวบาล</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">Hayvancılık</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="uk">тваринництво</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ur">افزائش مویشی</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="vi">ngành chăn nuôi</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">畜牧业</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20666</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Wohnverhältnisse</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2282602</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Siedlung_(St%C3%A4dtebau)</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/42134</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Wohnsiedlung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Wohnsiedlung</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">Housing estate</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">ジードルング</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="pl">Osiedle mieszkaniowe</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/114202</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Schlachten</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Schlachten</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=290867</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">23860</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/23860</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:36</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">31223</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92e983af71.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92e983af71.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=290867&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Schlachttag in der Bergmannssiedlung Köttingen</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

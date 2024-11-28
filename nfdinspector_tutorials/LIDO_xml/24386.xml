@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xalan="http://xml.apache.org/xalan" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/feature.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:source="https://westfalen.museum-digital.de/institution/61" lido:type="local">DE-Bm56/24386</lido:lidoRecID>
+    <lido:category/>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType>
+            <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/130907</lido:conceptID>
+            <lido:term xml:lang="de">Dia</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="Sammlung">
+            <lido:conceptID lido:source="local" lido:type="collection_id">670</lido:conceptID>
+            <lido:term xml:lang="de" lido:addedSearchTerm="no">Fotosammlung Stereofotografien</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred">Modell "Plastisches Grubenbild" für die Zeche Auguste Viktoria in Hüls</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet lido:type="current">
+            <lido:repositoryName>
+              <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+              </lido:legalBodyName>
+              <lido:legalBodyWeblink>https://www.bergbaumuseum.de/</lido:legalBodyWeblink>
+            </lido:repositoryName>
+            <lido:workID lido:type="inventory number">120160112001</lido:workID>
+            <lido:repositoryLocation>
+              <lido:namePlaceSet>
+                <lido:appellationValue>Bochum</lido:appellationValue>
+              </lido:namePlaceSet>
+              <lido:gml>
+                <gml:Point srsName="EPSG:4326">
+                  <gml:pos>51.48910522 7.21717024</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Detailaufnahme von oben eines "plastischen Grubenbildes"</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+          <lido:objectMeasurementsSet>
+            <lido:displayObjectMeasurements>Höhe: 60 mm; Breite: 130 mm</lido:displayObjectMeasurements>
+            <lido:objectMeasurements>
+              <lido:measurementsSet>
+                <lido:measurementType>width</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>130</lido:measurementValue>
+              </lido:measurementsSet>
+              <lido:measurementsSet>
+                <lido:measurementType>height</lido:measurementType>
+                <lido:measurementUnit>mm</lido:measurementUnit>
+                <lido:measurementValue>60</lido:measurementValue>
+              </lido:measurementsSet>
+            </lido:objectMeasurements>
+          </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:displayEvent>Hergestellt</lido:displayEvent>
+          <lido:event>
+            <lido:eventID lido:type="local">512109</lido:eventID>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+              <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue/>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:displayActorInRole>Karkoska, Günther</lido:displayActorInRole>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/199347</lido:actorID>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Karkoska, Günther</lido:appellationValue>
+                  </lido:nameActorSet>
+                  <lido:vitalDatesActor>
+                    <lido:earliestDate/>
+                    <lido:latestDate/>
+                  </lido:vitalDatesActor>
+                </lido:actor>
+              </lido:actorInRole>
+            </lido:eventActor>
+          </lido:event>
+        </lido:eventSet>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+              <lido:term>Event (non-specified)</lido:term>
+            </lido:eventType>
+            <lido:eventMaterialsTech>
+              <lido:displayMaterialsTech>Glas * Stereofotografie</lido:displayMaterialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="material">
+                  <lido:term>Glas</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+            <lido:eventMaterialsTech>
+              <lido:materialsTech>
+                <lido:termMaterialsTech lido:type="technique">
+                  <lido:term>Stereofotografie</lido:term>
+                </lido:termMaterialsTech>
+              </lido:materialsTech>
+            </lido:eventMaterialsTech>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="ar">مارل</lido:displayPlace>
+                <lido:displayPlace xml:lang="cs">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="da">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Marl, North Rhine-Westphalia</lido:displayPlace>
+                <lido:displayPlace xml:lang="es">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="fa">مارل، آلمان</lido:displayPlace>
+                <lido:displayPlace xml:lang="fi">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="fr">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="he">מארל</lido:displayPlace>
+                <lido:displayPlace xml:lang="hu">Marl (Recklinghauseni járás)</lido:displayPlace>
+                <lido:displayPlace xml:lang="it">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="ja">マール (ドイツ)</lido:displayPlace>
+                <lido:displayPlace xml:lang="nl">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="pl">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="pt">Marl (Renânia)</lido:displayPlace>
+                <lido:displayPlace xml:lang="ro">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="ru">Марль</lido:displayPlace>
+                <lido:displayPlace xml:lang="sv">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="sw">Marl</lido:displayPlace>
+                <lido:displayPlace xml:lang="tr">Marl, Kuzey Ren Vestfalya</lido:displayPlace>
+                <lido:displayPlace xml:lang="uk">Марль (Північний Рейн-Вестфалія)</lido:displayPlace>
+                <lido:displayPlace xml:lang="zh">马尔</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6557589</lido:placeID>
+                  <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7005082</lido:placeID>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4037660-6</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3813</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/6858</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ar">مارل</lido:appellationValue>
+                    <lido:appellationValue xml:lang="cs">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="da">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Marl, North Rhine-Westphalia</lido:appellationValue>
+                    <lido:appellationValue xml:lang="es">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fa">مارل، آلمان</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fi">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="fr">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="he">מארל</lido:appellationValue>
+                    <lido:appellationValue xml:lang="hu">Marl (Recklinghauseni járás)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="it">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ja">マール (ドイツ)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="nl">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pl">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="pt">Marl (Renânia)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ro">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="ru">Марль</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sv">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="sw">Marl</lido:appellationValue>
+                    <lido:appellationValue xml:lang="tr">Marl, Kuzey Ren Vestfalya</lido:appellationValue>
+                    <lido:appellationValue xml:lang="uk">Марль (Північний Рейн-Вестфалія)</lido:appellationValue>
+                    <lido:appellationValue xml:lang="zh">马尔</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.666667938232 7.1166667938232</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectPlace>
+                <lido:displayPlace>Zeche Auguste Victoria</lido:displayPlace>
+                <lido:displayPlace xml:lang="de">Zeche Auguste Victoria</lido:displayPlace>
+                <lido:displayPlace xml:lang="en">Zeche Auguste Victoria</lido:displayPlace>
+                <lido:place>
+                  <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4481944-4</lido:placeID>
+                  <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q169664</lido:placeID>
+                  <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/77639</lido:placeID>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Zeche Auguste Victoria</lido:appellationValue>
+                    <lido:appellationValue xml:lang="de">Zeche Auguste Victoria</lido:appellationValue>
+                    <lido:appellationValue xml:lang="en">Zeche Auguste Victoria</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point srsName="EPSG:4326">
+                      <gml:pos>51.68510055542 7.1105599403381</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:subjectPlace>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300247279</lido:conceptID>
+                <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4039798-1</lido:conceptID>
+                <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/7970</lido:conceptID>
+                <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48B124</lido:conceptID>
+                <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh00006390</lido:conceptID>
+                <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/1641</lido:conceptID>
+                <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1601329</lido:conceptID>
+                <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Modell</lido:conceptID>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1789</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Modell</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="cs">model</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="de">Modell</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="el">μοντέλο</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="en">model</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="es">modelo</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="fr">Modèle</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="id">model</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="it">modello</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ja">モデル</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ka">მოდელი</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="nl">model</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="ru">модель</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="tr">model</lido:term>
+                <lido:term lido:addedSearchTerm="no" xml:lang="zh">模型</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+          <lido:subjectSet>
+            <lido:subject>
+              <lido:subjectConcept>
+                <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/114233</lido:conceptID>
+                <lido:term lido:addedSearchTerm="no">Grubenbild</lido:term>
+              </lido:subjectConcept>
+            </lido:subject>
+          </lido:subjectSet>
+        </lido:subjectWrap>
+        <lido:relatedWorksWrap>
+          <lido:relatedWorkSet>
+            <lido:relatedWork>
+              <lido:displayObject>Objekt in der Datenbank des montan.dok</lido:displayObject>
+              <lido:object>
+                <lido:objectWebResource>https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=291408</lido:objectWebResource>
+              </lido:object>
+            </lido:relatedWork>
+          </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="museum-digital">24386</lido:recordID>
+        <lido:recordType>
+          <lido:term lido:addedSearchTerm="no">item</lido:term>
+        </lido:recordType>
+        <lido:recordSource lido:type="dataProvider">
+          <lido:legalBodyName>
+            <lido:appellationValue>museum-digital</lido:appellationValue>
+          </lido:legalBodyName>
+          <lido:legalBodyWeblink>https://westfalen.museum-digital.de/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordSource>
+          <lido:legalBodyID lido:type="isil">DE-Bm56</lido:legalBodyID>
+          <lido:legalBodyName>
+            <lido:appellationValue>Deutsches Bergbau-Museum Bochum – Leibniz-Forschungsmuseum für Georessourcen</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+        <lido:recordRights>
+          <lido:rightsType>
+            <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+          </lido:rightsType>
+          <lido:rightsHolder>
+            <lido:legalBodyName>
+              <lido:appellationValue>Montanhistorisches Dokumentationszentrum (montan.dok)</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:rightsHolder>
+          <lido:creditLine>Die Digitalisierung wurde durch die Deutsche Digitale Bibliothek im Rahmen des von der Beauftragten der Bundesregierung für Kultur und Medien (BKM) geförderten Programms NEUSTART KULTUR ermöglicht.</lido:creditLine>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+          <lido:recordInfoLink>https://westfalen.museum-digital.de/object/24386</lido:recordInfoLink>
+          <lido:recordMetadataDate>2024-06-29 16:49:37</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet lido:sortorder="1">
+          <lido:resourceID lido:source="resource" lido:type="local">31749</lido:resourceID>
+          <lido:resourceRepresentation lido:type="image_thumb">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/100h_62e92fb978003.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_preview">
+            <lido:linkResource lido:formatResource="image/jpeg">https://westfalen.museum-digital.de/data/westfalen/resources/documents/202208/200w_62e92fb978003.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceRepresentation lido:type="image_master">
+            <lido:linkResource lido:formatResource="image/jpeg">https://www.montandok.de/bild_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;zeig=291408&amp;rpos=1</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>image</lido:term>
+          </lido:resourceType>
+          <lido:resourceRelType>
+            <lido:term>Hauptansicht</lido:term>
+          </lido:resourceRelType>
+          <lido:resourceDescription>Modell "Plastisches Grubenbild" für die Zeche Auguste Viktoria in Hüls</lido:resourceDescription>
+          <lido:resourceSource lido:type="owner">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:resourceSource lido:type="creator">
+            <lido:legalBodyName>
+              <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-NC-SA</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+              <lido:legalBodyName>
+                <lido:appellationValue>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Deutsches Bergbau-Museum Bochum, Montanhistorisches Dokumentationszentrum</lido:creditLine>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>
