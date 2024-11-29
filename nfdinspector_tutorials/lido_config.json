@@ -1,0 +1,89 @@
+{
+    "workID": {
+        "pattern": ""
+    },
+    "title": {
+        "inspect": true,
+        "unique": true,
+        "distinct_from_type": true,
+        "min_word_num": 2,
+        "max_word_num": 20
+    },
+    "category": {
+        "inspect": true,
+        "ref": true,
+        "patterns": {
+            "label": "",
+            "ref": ""
+        }
+    },
+    "object_work_type": {
+        "inspect": true,
+        "ref": true,
+        "patterns": {
+            "label": "",
+            "ref": ""
+        }
+    },
+    "classification": {
+        "inspect": true,
+        "ref": true,
+        "patterns": {
+            "label": "",
+            "ref": ""
+        }
+    },
+    "object_description": {
+        "inspect": true,
+        "unique": true,
+        "min_word_num": 20,
+        "max_word_num": 500
+    },
+    "materials_tech": {
+        "inspect": true,
+        "ref": true,
+        "differentiated": false
+    },
+    "object_measurements": {
+        "inspect": true
+    },
+    "event": {
+        "inspect": true,
+        "ref": true
+    },
+    "subject_concept": {
+        "inspect": true,
+        "ref": true,
+        "min_num": 3
+    },
+    "resource": {
+        "inspect": true
+    },
+    "record_type": {
+        "inspect": true,
+        "ref": true,
+        "patterns": {
+            "label": "",
+            "ref": ""
+        }
+    },
+    "repository_name": {
+        "inspect": true,
+        "ref": true
+    },
+    "record_source": {
+        "inspect": true,
+        "ref": true
+    },
+    "record_rights": {
+        "inspect": true,
+        "ref": true,
+        "patterns": {
+            "label": "",
+            "ref": ""
+        }
+    },
+    "record_info": {
+        "inspect": true
+    }
+}
