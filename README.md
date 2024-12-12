@@ -1,26 +1,10 @@
 # NFDInspector Tutorials
 
-Collection of tutorials and use cases for NFDInspector.
+Collection of tutorials and use cases for [NFDInspector](https://github.com/montan-code/nfdinspector).
 
 ## Usage
 
-### Building the book
-
-If you'd like to develop and/or build the NFDInspector Tutorials book, you should:
-
-1. Clone this repository
-2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `nfdinspector_tutorials/` directory
-4. Run `jupyter-book clean nfdinspector_tutorials/` to remove any existing builds
-5. Run `jupyter-book build nfdinspector_tutorials/`
-
-A fully-rendered HTML version of the book will be built in `nfdinspector_tutorials/_build/html/`.
-
-### Hosting the book
-
-Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.html) to discover options for deploying a book online using services such as GitHub, GitLab, or Netlify.
-
-For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book) includes templates for, and information about, optional continuous integration (CI) workflow files to help easily and automatically deploy books online with GitHub or GitLab. For example, if you chose `github` for the `include_ci` cookiecutter option, your book template was created with a GitHub actions workflow file that, once pushed to GitHub, automatically renders and pushes your book to the `gh-pages` branch of your repo and hosts it on GitHub Pages when a push or pull request is made to the main branch.
+These tutorials can be used to get a first overview of the functions and use of [NFDInspector](https://github.com/montan-code/nfdinspector). They should give you a first impression and encourage you to try and explore. Code snippets can be used in your own scripts.
 
 ## Contributors
 
@@ -29,3 +13,9 @@ We welcome and recognize all contributions. You can see a list of current contri
 ## Credits
 
 This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+
+Please check out the [NFDInspector](https://github.com/montan-code/nfdinspector) for further information and detailed reference for the package.
+
+## Further Developement
+
+We are looking forward to provide this repository as a collection point for user experience reports and a place to share your solutions. Therefore, we invite all interested parties to actively participate in creating additional tutorials, use cases and implementations.
