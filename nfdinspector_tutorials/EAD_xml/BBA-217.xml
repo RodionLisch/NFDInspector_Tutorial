@@ -1,0 +1,1119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead:ead xmlns:ead="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <ead:eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <ead:eadid mainagencycode="DE-Bm56" url="https://www.bergbaumuseum.de/montandok">DE-Bm56_Findbuch_BBA-217_49a01cc0-c5ab-429b-9063-cf559b3e97b0</ead:eadid>
+    <ead:filedesc>
+      <ead:titlestmt>
+        <ead:titleproper>Braunschweigische Kohlen-Bergwerke AG, Helmstedt</ead:titleproper>
+      </ead:titlestmt>
+    </ead:filedesc>
+    <ead:profiledesc>
+      <ead:creation>
+        <ead:date normal="2024-01-03">03.01.2024</ead:date>
+      </ead:creation>
+    </ead:profiledesc>
+  </ead:eadheader>
+  <ead:archdesc level="collection" type="Findbuch">
+    <ead:did>
+      <ead:unitid>BBA 217</ead:unitid>
+      <ead:repository>
+        <ead:corpname role="Wirtschaftsarchive" id="DE-Bm56">Bergbau-Archiv Bochum</ead:corpname>
+        <ead:address>
+          <ead:addressline>Am Bergbaumuseum 28, 44791 Bochum; montan.dok@bergbaumuseum.de</ead:addressline>
+        </ead:address>
+        <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archive" xlink:href="https://www.bergbaumuseum.de/montandok/bergbau-archiv-bochum">Link zum Bergbau-Archiv Bochum</ead:extref>
+      </ead:repository>
+    </ead:did>
+    <ead:userestrict type="ead">
+      <ead:head>Creative Commons</ead:head>
+      <ead:p>
+        <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ead:extref>
+      </ead:p>
+    </ead:userestrict>
+    <ead:otherfindaid>
+      <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_findbuch" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=95433">Findbuch im Angebot des Archivs</ead:extref>
+    </ead:otherfindaid>
+    <ead:dsc>
+      <ead:c level="collection" id="DE-Bm56_BBA-217_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+        <ead:did>
+          <ead:unitid>BBA 217</ead:unitid>
+          <ead:unittitle>Braunschweigische Kohlen-Bergwerke AG, Helmstedt</ead:unittitle>
+          <ead:unitdate normal="1952-01-01/1999-12-31">1952 - 1999</ead:unitdate>
+          <ead:abstract>Geschäfts- und Jahresberichte 1952-1999 (38)<ead:lb/>Unternehmensdokumentationen 1957, 1973 (5)<ead:lb/>Projektberichte 1977-1982 (2)<ead:lb/>Werkszeitschriften 1967-1993 (27)<ead:lb/>Presseausschnittsammlung</ead:abstract>
+          <ead:physdesc>
+            <ead:extent>1 m</ead:extent>
+          </ead:physdesc>
+        </ead:did>
+        <ead:scopecontent encodinganalog="Einleitung">
+          <ead:head>Beschreibung</ead:head>
+          <ead:p>Im Jahr 1873 wurde von einem Berliner Bankenkonsortium die Braunschweigische Kohlen-Bergwerke AG (BKB) gegründet, nachdem es zuvor die von der Herzoglichen Kammer zum Verkauf angebotenen Tiefbaugruben Treue, Trendelbusch und Prinz Wilhelm des Helmstedter Reviers erworben hatte. </ead:p>
+          <ead:p>1874 ging der erste Tagebau Trendelbusch in Förderung, 1881 folgte der zweite Tagebau Treue. Technische Verbesserungen in der Folgezeit steigerten die Fördermengen erheblich, sodass 1887 mit der Brikettherstellung neben dem reinen Vertrieb von Rohkohle ein weiterer Produktionszweig eröffnet wurde. Mit der Aufnahme der Stromerzeugung auf der Schachtanlage Prinz Wilhelm im Jahr 1888 war der Grundstein gelegt für einen künftigen Kernbereich der BKB.</ead:p>
+          <ead:p>Nach der Jahrhundertwende gelang es dem Unternehmen, in einem Konzentrationsprozess kleinere Nachbarbetriebe aufzukaufen und 1915 schließlich durch die Übernahme des Mehrheitsanteils an den Harbker Kohlenwerken eine quasi monopolartige Stellung in der Region zu erreichen, die es bis 1952 innehaben sollte. </ead:p>
+          <ead:p>1925 übernahmen die Elektrowerke AG Berlin und die Rheinisch-Westfälische Elektrizitätswerks AG (RWE) die BKB-Aktien, nachdem die BKB zuvor für wenige Jahre Teil des Stinnes-Konzerns gewesen war, bevor Ende der 20er Jahre durch einem Aktientausch die Anteile des RWE an die PreussenElektra übergingen. Die Einstellung des Tiefbaus auf Prinz Wilhelm im Jahr 1925 beendete, abgesehen von einem Versuchstiefbau in den 60er Jahren, auch die Epoche des Tiefbaus im Helmstedter Revier.</ead:p>
+          <ead:p>Mit Wulfersdorf wurde dann Mitte der 30er Jahre ein weiterer Tagebau aufgeschlossen.</ead:p>
+          <ead:p>Eine besondere Situation ergab sich nach Kriegsende für den weiteren Betrieb durch die deutsche Teilung. Nach anfänglicher Kompromissbereitschaft gingen 1952 im Zuge der Grenzschließung alle auf bisher preußischem Gebiet befindlichen Betriebsteile in volkseigenen Besitz über. </ead:p>
+          <ead:p>Wirtschaftliche Kontakte zwischen der BKB und der DDR wurden dann aber in den 50er Jahren schon wieder aufgenommen. Der Abbau der so genannten Grenzpfeilerkohle, der der BKB in Aussicht gestellt wurde, sollte jedoch, aufgrund einer erneuten Verschlechterung der politischen Großwetterlage durch den Mauerbau, erst Mitte der 70er Jahre realisiert werden. Zuvor erfolgte Anfang der 60er und der 70er Jahre der Aufschluss der Tagebaue Alversdorf und Helmstedt.</ead:p>
+          <ead:p>Nach Einstellung der Brikettherstellung und des Rohkohleverkaufs wurde die BKB 1974 zum reinen Stromerzeuger. Die wachsende Kohlenachfrage in den 70er Jahren, hervorgerufen durch die rapide Ölpreisteuerung, ließ dann 1978 den Aufschluss des Tagebaus Schöningen trotz qualitativ minderwertiger Kohle als rentabel erscheinen.</ead:p>
+          <ead:p>Anfang der 80er Jahre rückten die Auseinandersetzungen um das in Bau befindliche Kraftwerk Buschhaus die BKB in das Licht auch der überregionalen Öffentlichkeit: 1984 beschloss der Bundestag, Buschhaus im vorgesehenen Betrieb mit Schöninger Salzbraunkohle nur mit Rauchgasentschwefelungsanlage ans Netz gehen zu lassen. </ead:p>
+          <ead:p>Diese wurde 1987 in Betrieb genommen. Im Vorjahr war die PreussenElektra zum Hauptaktionär geworden, nachdem die Anteile der Elektrowerke AG Berlin auf sie übergegangen waren.</ead:p>
+          <ead:p>Neuerungen hinsichtlich der Tätigkeitsfelder des Unternehmens wurden Anfang der 90er Jahre durch Erweiterung um den Bau und Betrieb von Entsorgungsanlagen beschlossen. In den Folgejahren wurde in den Tagebauen Alversdorf und Treue die letzte Kohle gefördert. </ead:p>
+          <ead:p>Ein Ende der bergbaulichen Tätigkeit des Unternehmens ist mit der Auskohlung des Tagebaus Schöningen etwa im Jahr 2017 schon heute absehbar.</ead:p>
+        </ead:scopecontent>
+        <ead:relatedmaterial>
+          <ead:head>Literaturhinweise</ead:head>
+          <ead:p>Werner Vogt / Andrea Dreifke-Pieper: Die Braunschweigische Kohlen-Bergwerke AG. Industriegeschichte des Helmstedter Reviers, München 1999.</ead:p>
+        </ead:relatedmaterial>
+        <ead:index>
+          <ead:indexentry>
+            <ead:subject source="GND" authfilenumber="4008048-1">Braunkohle</ead:subject>
+          </ead:indexentry>
+          <ead:indexentry>
+            <ead:subject>Braunkohlenbergbau</ead:subject>
+          </ead:indexentry>
+          <ead:indexentry>
+            <ead:subject>Braunkohlenindustrie</ead:subject>
+          </ead:indexentry>
+          <ead:indexentry>
+            <ead:corpname>Braunschweigische Kohlen-Bergwerke AG &lt;Helmstedt&gt;</ead:corpname>
+          </ead:indexentry>
+        </ead:index>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F10516E081E0">
+          <ead:did>
+            <ead:unittitle>Geschäfts- und Jahresberichte der Braunschweigischen Kohlen-Bergwerke AG</ead:unittitle>
+          </ead:did>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168364_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>30</ead:unitid>
+              <ead:unitid type="Altsignatur">G 140</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1952-01-01/1952-12-31">1952</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168364">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168365_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>31</ead:unitid>
+              <ead:unitid type="Altsignatur">G 141</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1953-01-01/1953-12-31">1953</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168365">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168366_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>32</ead:unitid>
+              <ead:unitid type="Altsignatur">G 142</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1954-01-01/1954-12-31">1954</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168366">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168367_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>33</ead:unitid>
+              <ead:unitid type="Altsignatur">G 143</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1955-01-01/1955-12-31">1955</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168367">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168368_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>34</ead:unitid>
+              <ead:unitid type="Altsignatur">G 144</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1956-01-01/1956-12-31">1956</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168368">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168369_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>35</ead:unitid>
+              <ead:unitid type="Altsignatur">G 145</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1957-01-01/1957-12-31">1957</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168369">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168370_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>36</ead:unitid>
+              <ead:unitid type="Altsignatur">G 146</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1958-01-01/1958-12-31">1958</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168370">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168371_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>37</ead:unitid>
+              <ead:unitid type="Altsignatur">G 147</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1959-01-01/1959-12-31">1959</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168371">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168372_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>38</ead:unitid>
+              <ead:unitid type="Altsignatur">G 148</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1960-01-01/1960-12-31">1960</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168372">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168373_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>39</ead:unitid>
+              <ead:unitid type="Altsignatur">G 149</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1961-01-01/1961-12-31">1961</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168373">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168374_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>40</ead:unitid>
+              <ead:unitid type="Altsignatur">G 150</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1962-01-01/1962-12-31">1962</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168374">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168375_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>41</ead:unitid>
+              <ead:unitid type="Altsignatur">G 151</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1963-01-01/1963-12-31">1963</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168375">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168376_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>42</ead:unitid>
+              <ead:unitid type="Altsignatur">G 152</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1964-01-01/1964-12-31">1964</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168376">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168377_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>43</ead:unitid>
+              <ead:unitid type="Altsignatur">G 153</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1965-01-01/1965-12-31">1965</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168377">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168378_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>44</ead:unitid>
+              <ead:unitid type="Altsignatur">G 154</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1966-01-01/1966-12-31">1966</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168378">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168379_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>45</ead:unitid>
+              <ead:unitid type="Altsignatur">G 155</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1967-01-01/1967-12-31">1967</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168379">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168380_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>46</ead:unitid>
+              <ead:unitid type="Altsignatur">G 156</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1968-01-01/1968-12-31">1968</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168380">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168381_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>47</ead:unitid>
+              <ead:unitid type="Altsignatur">G 157</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1970-01-01/1970-12-31">1970</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168381">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168382_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>48</ead:unitid>
+              <ead:unitid type="Altsignatur">G 158</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1971-01-01/1971-12-31">1971</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168382">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168383_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>49</ead:unitid>
+              <ead:unitid type="Altsignatur">G 159</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1972-01-01/1972-12-31">1972</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168383">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168384_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>50</ead:unitid>
+              <ead:unitid type="Altsignatur">G 160</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1973-01-01/1973-12-31">1973</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168384">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168385_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>51</ead:unitid>
+              <ead:unitid type="Altsignatur">G 161</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1974-01-01/1974-12-31">1974</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168385">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168386_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>52</ead:unitid>
+              <ead:unitid type="Altsignatur">G 162</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1975-01-01/1975-12-31">1975</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168386">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168387_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>53</ead:unitid>
+              <ead:unitid type="Altsignatur">G 163</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1976-01-01/1976-12-31">1976</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168387">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168388_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>54</ead:unitid>
+              <ead:unitid type="Altsignatur">G 164</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1977-01-01/1977-12-31">1977</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168388">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168389_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>55</ead:unitid>
+              <ead:unitid type="Altsignatur">G 165</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1978-01-01/1978-12-31">1978</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168389">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168390_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>56</ead:unitid>
+              <ead:unitid type="Altsignatur">G 166</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1979-01-01/1979-12-31">1979</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168390">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168391_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>57</ead:unitid>
+              <ead:unitid type="Altsignatur">G 167</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1980-01-01/1980-12-31">1980</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168391">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168392_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>58</ead:unitid>
+              <ead:unitid type="Altsignatur">G 168</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1981-01-01/1981-12-31">1981</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168392">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168393_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>59</ead:unitid>
+              <ead:unitid type="Altsignatur">G 169</ead:unitid>
+              <ead:unittitle type="title">Jahresbericht</ead:unittitle>
+              <ead:unitdate normal="1982-01-01/1982-12-31">1982</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168393">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168394_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>60</ead:unitid>
+              <ead:unitid type="Altsignatur">G 170</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1991-01-01/1991-12-31">1991</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168394">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168395_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>61</ead:unitid>
+              <ead:unitid type="Altsignatur">G 171</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1992-01-01/1992-12-31">1992</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168395">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168396_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>62</ead:unitid>
+              <ead:unitid type="Altsignatur">G 172</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1994-01-01/1994-12-31">1994</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168396">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168397_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>63</ead:unitid>
+              <ead:unitid type="Altsignatur">G 173</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1995-01-01/1995-12-31">1995</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168397">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168398_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>64</ead:unitid>
+              <ead:unitid type="Altsignatur">G 174</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1996-01-01/1996-12-31">1996</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168398">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168399_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>65</ead:unitid>
+              <ead:unitid type="Altsignatur">G 1305</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1997-01-01/1997-12-31">1997</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168399">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168402_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>68</ead:unitid>
+              <ead:unittitle type="title">Geschäftsbericht</ead:unittitle>
+              <ead:unitdate normal="1999-01-01/1999-12-31">1999</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168402">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168405_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>71</ead:unitid>
+              <ead:unittitle type="title">Jahresgeschäftsbericht des VE Braunkohlenkombinats Gustav Sobottka in Röblingen, Werk Harbke</ead:unittitle>
+              <ead:unitdate normal="1976-01-01/1976-12-31">1976</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168405">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+            <ead:index>
+              <ead:indexentry>
+                <ead:corpname source="GND" authfilenumber="2151532-3">Braunkohlenwerk Gustav Sobottka (Röblingen)</ead:corpname>
+              </ead:indexentry>
+            </ead:index>
+          </ead:c>
+        </ead:c>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F10516E181E0">
+          <ead:did>
+            <ead:unittitle>Werkszeitschriften (BKB-Mitteilungen)</ead:unittitle>
+          </ead:did>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168337_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>3</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-17</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1967-01-01/1967-12-31">1967</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168337">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168338_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>4</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-18</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1968-01-01/1968-12-31">1968</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168338">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168339_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>5</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-19</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1969-01-01/1969-12-31">1969</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168339">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168340_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>6</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-20</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1970-01-01/1970-12-31">1970</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168340">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168341_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>7</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-21</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1971-01-01/1971-12-31">1971</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168341">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168342_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>8</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-22</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1972-01-01/1972-12-31">1972</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168342">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168343_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>9</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750-23</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1973-01-01/1973-12-31">1973</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168343">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168344_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>10</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1, 4, 8, 9, 11, 12</ead:unittitle>
+              <ead:unitdate normal="1976-01-01/1976-12-31">1976</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168344">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168345_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>11</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1, 2, 4, 5-10</ead:unittitle>
+              <ead:unitdate normal="1977-01-01/1977-12-31">1977</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168345">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168346_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>12</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1, 3, 9, 10, 12</ead:unittitle>
+              <ead:unitdate normal="1978-01-01/1978-12-31">1978</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168346">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168347_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>13</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-3, 5, 7-9, 12</ead:unittitle>
+              <ead:unitdate normal="1979-01-01/1979-12-31">1979</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168347">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168348_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>14</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1, 3, 4, 12</ead:unittitle>
+              <ead:unitdate normal="1980-01-01/1980-12-31">1980</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168348">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168349_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>15</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-4, 6-8, 10-12</ead:unittitle>
+              <ead:unitdate normal="1981-01-01/1981-12-31">1981</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168349">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168350_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>16</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1982-01-01/1982-12-31">1982</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168350">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168351_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>17</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1983-01-01/1983-12-31">1983</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168351">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168352_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>18</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen</ead:unittitle>
+              <ead:unitdate normal="1984-01-01/1984-12-31">1984</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168352">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168353_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>19</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1, 3, 5, 8-12</ead:unittitle>
+              <ead:unitdate normal="1985-01-01/1985-12-31">1985</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168353">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168354_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>20</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-12, 8 fehlt</ead:unittitle>
+              <ead:unitdate normal="1986-01-01/1986-12-31">1986</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168354">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168355_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>21</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-12,  4 fehlt</ead:unittitle>
+              <ead:unitdate normal="1987-01-01/1987-12-31">1987</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168355">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168356_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>22</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-8, 11</ead:unittitle>
+              <ead:unitdate normal="1988-01-01/1988-12-31">1988</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168356">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168357_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>23</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 3, 5, 8-9, 12</ead:unittitle>
+              <ead:unitdate normal="1989-01-01/1989-12-31">1989</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168357">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168358_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>24</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 2, 7/8</ead:unittitle>
+              <ead:unitdate normal="1990-01-01/1990-12-31">1990</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168358">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168359_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>25</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 2, 5, 8-12</ead:unittitle>
+              <ead:unitdate normal="1991-01-01/1991-12-31">1991</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168359">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168360_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>26</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-3, 5-12</ead:unittitle>
+              <ead:unitdate normal="1992-01-01/1992-12-31">1992</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168360">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168361_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>27</ead:unitid>
+              <ead:unitid type="Altsignatur">Z 0750</ead:unitid>
+              <ead:unittitle type="title">BKB-Mitteilungen, Ausgaben 1-5</ead:unittitle>
+              <ead:unitdate normal="1993-01-01/1993-12-31">1993</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168361">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+        </ead:c>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F10516E281E0">
+          <ead:did>
+            <ead:unittitle>Unternehmensdokumentationen / Sonstiges</ead:unittitle>
+          </ead:did>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168335_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>1</ead:unitid>
+              <ead:unitid type="Altsignatur">GES 0046</ead:unitid>
+              <ead:unittitle type="title">100 Jahre BKB 1873-1973</ead:unittitle>
+              <ead:unitdate normal="1873-01-01/1973-12-31">1873 - 1973</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168335">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168336_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>2</ead:unitid>
+              <ead:unitid type="Altsignatur">GES 0100+1</ead:unitid>
+              <ead:unittitle type="title">BKB im Bild. Ein Unternehmen des Braunkohlenbergbaus stellt sich vor</ead:unittitle>
+              <ead:unitdate normal="1973-01-01/1973-12-31">1973</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168336">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168362_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>28</ead:unitid>
+              <ead:unittitle type="title">Wirtschaftliche Gewinnung u. Verwertung von Posidonienschiefer des Untersuchungsgebiets Schandelah</ead:unittitle>
+              <ead:unitdate normal="1977-01-01/1977-12-31">1977</ead:unitdate>
+              <ead:abstract type="enthält u.a.">Bericht über zwei Untersuchungsphasen</ead:abstract>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168362">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+            <ead:index>
+              <ead:indexentry>
+                <ead:subject>Schiefer</ead:subject>
+              </ead:indexentry>
+              <ead:indexentry>
+                <ead:geogname>Schandelah &lt;Region&gt;</ead:geogname>
+              </ead:indexentry>
+            </ead:index>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168363_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>29</ead:unitid>
+              <ead:unitid type="Altsignatur">EGÖ 0013</ead:unitid>
+              <ead:unittitle type="title">Wirtschaftliche Gewinnung u. Verwertung von Posidonienschiefer des Untersuchungsgebiets Schandelah</ead:unittitle>
+              <ead:unitdate normal="1982-01-01/1982-12-31">1982</ead:unitdate>
+              <ead:abstract type="enthält u.a.">Abschlußbericht zur Phase 3, Text- u. Anlagenband</ead:abstract>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168363">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+            <ead:index>
+              <ead:indexentry>
+                <ead:subject>Schiefer</ead:subject>
+              </ead:indexentry>
+              <ead:indexentry>
+                <ead:geogname>Schandelah &lt;Region&gt;</ead:geogname>
+              </ead:indexentry>
+            </ead:index>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168400_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>66</ead:unitid>
+              <ead:unitid type="Altsignatur">G 1479</ead:unitid>
+              <ead:unittitle type="title">Presseausschnittsammlung der Deutschen Bank AG, Zentrale Düsseldorf, Volkswirtschaftliche Abteilung zum Thema Braunschweigische Kohlen-Bergwerke AG</ead:unittitle>
+              <ead:unitdate normal="1967-01-01/1978-12-31">1967 - 1978</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168400">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168401_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>67</ead:unitid>
+              <ead:unitid type="Altsignatur">G 1520</ead:unitid>
+              <ead:unittitle type="title">Überblick über die Betriebe</ead:unittitle>
+              <ead:unitdate normal="1957-01-01/1957-12-31">1957</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168401">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168403_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>69</ead:unitid>
+              <ead:unittitle type="title">25 Jahre Schwelwerk Offleben 1936-1961</ead:unittitle>
+              <ead:unitdate normal="1961-01-01/1961-12-31">1961</ead:unitdate>
+              <ead:abstract type="darin">Brief des Bundespräsidenten von Weizäcker, 1985</ead:abstract>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168403">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+            <ead:index>
+              <ead:indexentry>
+                <ead:persname>Weizäcker, Richard v.</ead:persname>
+              </ead:indexentry>
+            </ead:index>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-217_168404_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>70</ead:unitid>
+              <ead:unittitle type="title">Entwicklung des Braunkohlenwerks Harbke von der Gründung des Volkseigenen Betriebs bis zum Auslaufen des Tagebaus Wulfersdorf</ead:unittitle>
+              <ead:unitdate normal="1985-01-01/1985-12-31">1985</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=168404">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+            <ead:index>
+              <ead:indexentry>
+                <ead:corpname>Zeche Gustav Sobattka</ead:corpname>
+              </ead:indexentry>
+            </ead:index>
+          </ead:c>
+        </ead:c>
+      </ead:c>
+    </ead:dsc>
+  </ead:archdesc>
+</ead:ead>

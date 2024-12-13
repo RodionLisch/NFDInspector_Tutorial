@@ -1,0 +1,1091 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead:ead xmlns:ead="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <ead:eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <ead:eadid mainagencycode="DE-Bm56" url="https://www.bergbaumuseum.de/montandok">DE-Bm56_Findbuch_BBA-6_49a01cc0-c5ab-429b-9063-cf559b3e97b0</ead:eadid>
+    <ead:filedesc>
+      <ead:titlestmt>
+        <ead:titleproper>Erzbergbau Porta-Damme GmbH, Damme (Oldenburg)</ead:titleproper>
+      </ead:titlestmt>
+    </ead:filedesc>
+    <ead:profiledesc>
+      <ead:creation>
+        <ead:date normal="2024-01-03">03.01.2024</ead:date>
+      </ead:creation>
+    </ead:profiledesc>
+  </ead:eadheader>
+  <ead:archdesc level="collection" type="Findbuch">
+    <ead:did>
+      <ead:unitid>BBA 6</ead:unitid>
+      <ead:repository>
+        <ead:corpname role="Wirtschaftsarchive" id="DE-Bm56">Bergbau-Archiv Bochum</ead:corpname>
+        <ead:address>
+          <ead:addressline>Am Bergbaumuseum 28, 44791 Bochum; montan.dok@bergbaumuseum.de</ead:addressline>
+        </ead:address>
+        <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archive" xlink:href="https://www.bergbaumuseum.de/montandok/bergbau-archiv-bochum">Link zum Bergbau-Archiv Bochum</ead:extref>
+      </ead:repository>
+    </ead:did>
+    <ead:userestrict type="ead">
+      <ead:head>Creative Commons</ead:head>
+      <ead:p>
+        <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ead:extref>
+      </ead:p>
+    </ead:userestrict>
+    <ead:otherfindaid>
+      <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_findbuch" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=95358">Findbuch im Angebot des Archivs</ead:extref>
+    </ead:otherfindaid>
+    <ead:dsc>
+      <ead:c level="collection" id="DE-Bm56_BBA-6_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+        <ead:did>
+          <ead:unitid>BBA 6</ead:unitid>
+          <ead:unittitle>Erzbergbau Porta-Damme GmbH, Damme (Oldenburg)</ead:unittitle>
+          <ead:unitdate normal="1933-01-01/1967-12-31">1933 - 1967</ead:unitdate>
+          <ead:abstract>Eisenerzgrube Porta, Zechenbuch Teil A 1939-1964 (6)<ead:lb/>Eisenerzgrube Porta, Zechenbuch Teil B 1938-1963 (2)<ead:lb/>Wissenschaftlich-technische Arbeiten über Porta (4)<ead:lb/>Eisenerzgrube Damme, Zechenbuch Teil B 1938-1966 (15)<ead:lb/>Eisenerzgrube Damme, Betriebsakten 1949-1964 (4)<ead:lb/>Wissenschaftlich-technische Arbeiten über Damme (7)<ead:lb/>Erzbergbau Porta-Damme AG 1957-1963 (4)</ead:abstract>
+          <ead:physdesc>
+            <ead:extent>1,3 m</ead:extent>
+          </ead:physdesc>
+        </ead:did>
+        <ead:scopecontent encodinganalog="Einleitung">
+          <ead:head>Beschreibung</ead:head>
+          <ead:p>Die beiden von der Erzbergbau Porta-Damme AG betriebenen Gruben Porta und Damme verdanken ihre Entstehung den Autarkiebestrebungen der 30er Jahre (Vierjahresplan). Die am 18. März 1953 gegründete Erzbergbau Porta-Damme AG befand sich je zur Hälfte im Besitz der Barbara Erzbergbau AG und der Harz-Lahn-Erzbergbau AG.</ead:p>
+          <ead:p>Das Eisenerzbergwerk Porta wurde am 2. Oktober 1935 als Versuchsbetrieb bei der Ortschaft Häverstädt am Wiehengebirge von den Klöckner-Werken in Betrieb genommen. Kurz darauf wurde der Betrieb bedeutend erweitert, sodass sich am 1. Juli 1937 die Gewerkschaft Porta mit Sitz in Dützen bei Minden konstituierte. Das Eisenerzflöz mit einer Mächtigkeit von 1 bis 2 m wurde im Stollenbau abgebaut. Die Grube Porta wurde am 1. Oktober 1962 stillgelegt und am 1. Oktober 1963 als Steinbruchbetrieb Porta an die Barbara Erzbergbau GmbH in Düsseldorf verpachtet.</ead:p>
+          <ead:p>Im Gebiet um Damme begannen 1937/1938 Bohrarbeiten, die zunächst von der Gesellschaft zur Untersuchung Deutscher Eisenerzlagerstätten mbH mit Sitz in Essen und später vom so genannten Damme-Konsortium weiterverfolgt wurden. In Damme handelte es sich um eine Trümmererzlagerstätte von 1 bis 6 m Mächtigkeit, die im Tiefbau abgebaut wurde. Gewerken der Gewerkschaft Damme mit Sitz in Essen waren die Rohstoffbetriebe der Vereinigte Stahlwerke AG (VSt), Fried. Krupp, Hoesch, Klöckner-Werke und die Mannesmannröhren-Werke. </ead:p>
+          <ead:p>Mit dem eigentlichen Abbau des Eisenerzes wurde in Damme erst 1948 begonnen. Am 30. September 1963 wurde die Erzbergbau Porta-Damme AG in eine GmbH umgewandelt und betrieb weiterhin bis zur Stilllegung am 31. März 1967 die Schachtanlage Damme.</ead:p>
+          <ead:p>Aus den geordneten Verfügungen der Bergbehörde sowie den Betriebsplänen und Einzelgenehmigungen lässt sich der Betriebsablauf beider Schachtanlagen gut ablesen. Anhand der Betriebsakten von Damme sind die Probleme der Erzaufbereitung und besonders auch der Bergschäden beim Abbau in geringen Teufen (um 240 m) zu ersehen. In den Akten befinden sich zahlreiche technische Zeichnungen, Karten und Grundrisse, die sowohl bauliche Vorhaben als auch technische Aufgaben und Probleme illustrieren. </ead:p>
+          <ead:p>Die technische und geschäftliche Abwicklung der Bauvorhaben erfolgte durch die Hauptverwaltung (Barbara Erzbergbau) in Düsseldorf. Dadurch bestehen diese Akten im Wesentlichen aus Kopien und dem Schriftwechsel der örtlichen Betriebsaufsicht und Bauleitung mit den ausführenden Firmen sowie mit der Verwaltung in Düsseldorf.</ead:p>
+        </ead:scopecontent>
+        <ead:relatedmaterial>
+          <ead:head>Verweise auf andere Bestände</ead:head>
+          <ead:p>Barbara Erzbergbau GmbH, Düsseldorf (Bestand 7)</ead:p>
+        </ead:relatedmaterial>
+        <ead:relatedmaterial>
+          <ead:head>Literaturhinweise</ead:head>
+          <ead:p>Jahrbuch des deutschen Bergbaus, 1950, S. 375; 1951, S. 411 f., S. 434; 1953, S. 530 f.; 1967, S. 268.</ead:p>
+          <ead:p>Der Bergbau in Oldenburg, Ostfriesland und im Emsland. 25 Jahre Bergamt Meppen 1951-1976, Meppen 1976, S. 30 f.</ead:p>
+        </ead:relatedmaterial>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F10501FE81E0">
+          <ead:did>
+            <ead:unittitle>Eisenerzgrube Porta</ead:unittitle>
+          </ead:did>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105021381E0">
+            <ead:did>
+              <ead:unittitle>Zechenbuch Teil A</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105624_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>1</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Verfügungen und Stellungnahmen sowie entsprechende Betriebsmeldungen und Schriftwechsel</ead:unittitle>
+                <ead:unitdate normal="1933-01-01/1964-12-31">1933 - 1964</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Führung von Zechenbüchern (1933-1957); die Arbeiterunterstützungskassen, Freistellung der unter Tage Beschäftigten vom Wehrdienst, Einreichung von Statistiken, Betriebsversammlungen, Verkehr mit der Presse bei Unglücksfällen, verschiedene Gesetzestexte (1949-1963); die Verantwortung bei Unternehmerarbeiten (1952-1962); Unglücksfälle und Unglücksverhütung (1943-1964); montanstatische Erhebungen über Gewinnung und Belegschaft (1955-1961); Fragen der Arbeitszeitordnung, v. a. Pausenregelungen, Schichtverlegungen, Feierschichten und Überstunden (1948-1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105624">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4142905-9">Arbeitsordnung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Unterstützungskasse, Arbeiter</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4061693-9">Unfall</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4061706-3">Unfallverhütung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4130587-5">Arbeitszeit</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Zechenbücher</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Feierschicht</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105625_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>2</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Verfügungen und Stellungnahmen sowie entsprechende Betriebsmeldungen und Schriftwechsel</ead:unittitle>
+                <ead:unitdate normal="1943-01-01/1963-12-31">1943 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Grubenbaue und Grubenausbau, Abbau des Wittekindflözes 1953 (1943-1963); Fahrung und Förderung, Verfügung über den ordnungsgemäßen Einsatz von Grubenpferden vom 12.05.1954 (1948-1963); Bewetterung (1949-1963); Bekämpfung von Staub und Gas (1939-1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105625">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4131968-0">Staubbekämpfung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4158337-1">Grubenklima</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="7626636-9">Grubenpferd</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:geogname>Flöz Wittekind</ead:geogname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105626_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>3</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Stellungnahmen und Verfügungen sowie Schriftwechsel mit dem Bergamt Hamm</ead:unittitle>
+                <ead:unitdate normal="1937-01-01/1964-12-31">1937 - 1964</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Durchführung der Schießarbeit mit Unfallberichten aus dem Oberbergamtsbezirk Dortmund (1950-1964); Schießberechtigte und Sprengstofflizenzen (1946-1963); Sprengstoffe, Unterlagen über den Brand des Sprengstoffmagazins auf der Grube Porta am 08.12.1946 (1937-1962)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105626">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Sprengstoffe</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Oberbergamt Dortmund</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105627_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>4</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Stellungnahmen und Verfügungen sowie Schriftwechsel mit dem Bergamt Hamm</ead:unittitle>
+                <ead:unitdate normal="1954-01-01/1954-12-31">1954</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Feuerlöschwesen über und unter Tage (1940-1962); Grubenrettungswesen, Unterlagen zur Verleihung des Grubenwehr-Ehrenzeichens (1954); Luftschutz (lückenhaft) (1939-1963); Strahlenschutz (1960-1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105627">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Grubenrettungswesen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Grubenbrände</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Grubenwehrehrenzeichen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4079167-1">Weltkrieg &lt;1939-1945&gt;</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4168282-8">Luftschutz</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105628_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>5</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Stellungnahmen und Verfügungen sowie Schriftwechsel mit dem Bergamt Hamm</ead:unittitle>
+                <ead:unitdate normal="1943-01-01/1964-12-31">1943 - 1964</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Gase, Öle, Kraftstoffe (1943-1964); Grubenanschlußbahnen, Lageplan über die Trassenführung der Grubenbahn der Grube Porta (1952-1962); Maschinen (u. a. Dampfkessel, Bohrhämmer usw.), v. a. Abschriften von Schreiben der Bergbehörden an Unternehmen der Bergbauzulieferindustrie mit Prüfbescheinigungen (1949-1963); Tagesanlagen, Fragebogen über Bergehalden des Steinkohlen- und Erzbergbaus von 1961 mit Angaben über die Grube Porta und Übersichtsplänen der Halden vor dem Dützer Stollen und vor dem Weserstollen (1949-1961); Markscheidewesen, v. a. Verhütung von Wassereinbrüchen und Anlegung von Grubenbildern (1948-1962)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105628">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4242499-9">Grubenbahn</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Bergehalden</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Wassereinbrüche</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105629_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>6</ead:unitid>
+                <ead:unittitle type="title">Bergbehördliche Stellungnahmen und Verfügungen sowie Schriftwechsel mit denselben</ead:unittitle>
+                <ead:unitdate normal="1937-01-01/1963-12-31">1937 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Anlegeuntersuchungen (1951-1963); Arbeitsschutz, insbesondere Berichte und Maßnahmen zum Unfallwesen, zur Verbesserung der Grubensicherheit, zur Silikosebekämpfung und zum Jugendarbeitsschutz, Verfügung des Oberbergamts Dortmund vom 23.07.1956 über die Bedingungen bei der Anlegung fremdsprachiger Ausländer (1937-1962); Berufsausbildung, Entwurf des Reichsinstituts für Berufsausbildung über die Ausbildung der Knappen im Erzbergbau vom 11.10.1941, Ausbildungsplan der Berglehrlinge der Gewerkschaft Porta vom 14.12.1943, Rahmenplan für die Ausbildung der Berglehrlinge im Erzbergbau im Oberbergamtsbezirk Clausthal-Zellerfeld vom 17.10.1956 (1939-1962); Betriebsaufsicht, Mitteilung an das Bergamt Hamm über die Verpachtung des Steinbruchbetriebs am 01.10.1963 an die Barbara Erzbergbau GmbH, Düsseldorf (1953-1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105629">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildungspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Berglehrlinge</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4028867-5">Jugendarbeitsschutz</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="7502672-7">Ausländerbeschäftigung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Oberbergamt Dortmund</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Reichsinstitut für Berufsausbildung</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Oberbergamt Clausthal-Zellerfeld</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Barbara Erzbergbau GmbH</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105021181E0">
+            <ead:did>
+              <ead:unittitle>Zechenbuch Teil B (Grube Porta)</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105630_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>7</ead:unitid>
+                <ead:unittitle type="title">Betriebspläne und Zulassungen</ead:unittitle>
+                <ead:unitdate normal="1937-01-01/1963-12-31">1937 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Jahresbetriebspläne, z. T. mit Übersichtskarten (1937 und 1952-1962); Stillegungsbetriebsplan 1962 und Abschlußbetriebsplan 1963 mit Baugrundriß sowie Schriftwechsel im Zusammenhang mit der Stillegung (1962-1963); Einzelbetriebspläne zur Auffahrung der abfallenden Grundstrecke, zum Sümpfen und Ausrauben des Gestänges, mit Zeichnungen (1957-1961); bergbehördliche Ausnahmegenehmigung zum Förderabhauen 2036 und 2024, mit Anlagen (1959-1960); Sonderbetriebsplan für die Wasserhaltung, mit Hauptgrundriß (1961); Sonderbetriebspläne und Schriftwechsel über die Kalksteingewinnung im Tagebau und Tiefbau, mit Zeichnungen (1961-1963); Antrag an das Bergamt Hamm auf Seilfahrtgenehmigung im Bremsberg mit Gestellförderung, mit 10 Anlagen (1951); Einzelbetriebspläne über die Verwendung von Dieselfahrzeugen unter Tage, mit Anlagen (1955); Einzelbetriebspläne zu verschiedenen Abbauverfahren (1938-1959)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105630">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4125246-9">Stilllegung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Kalkstein</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4064731-6">Wasserhaltung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105631_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>8</ead:unitid>
+                <ead:unittitle type="title">Sonderbetriebspläne und Zulassungen</ead:unittitle>
+                <ead:unitdate normal="1940-01-01/1965-12-31">1940 - 1965</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Herstellung von Aufhauen (1958-1959); Staubschutz, Staubmessungen und Silikoseuntersuchungen (1940-1959); Sprengstofflager an verschiedenen Betriebspunkten, mit Anlagen (1940-1965); Brandschutz, insbesondere Fluchtplan (1960-1964); Grubenrettungswesen unter Tage (1939-1963); Feuerlöschwesen über Tage (1942-1943); Gebäude und Anlagen über Tage, mit Anlagen, Protokoll über die Einwände zur Erweiterung der Sieb- und Brechtanlage auf der Grube Porta vom 29.07.1964, Teilnehmer der Besprechung waren Einwohner des Ortes Dützen, Vertreter des TÜV Hannover, Vertreter des Bergamts Hamm, des Oberbergamts Dortmund sowie der Barbara Erzbergbau GmbH (1955-1964); Halden und Bewältigung von Grubenabwässern, mit Karten und Rissen (1936-1961); Wetterschächte (1953-1954)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105631">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4131968-0">Staubbekämpfung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Silikosebekämpfung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Sprengstoffe</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Grubenrettungswesen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4131886-9">Halde</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Wetterschacht</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Sieb- und Brechanlagen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Bergamt Hamm (Westf.)</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Amt Dützen</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>TÜV Hannover</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Oberbergamt Dortmund</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Barbara Erzbergbau GmbH</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105021581E0">
+            <ead:did>
+              <ead:unittitle>Wissenschaftlich-technische Arbeiten (Grube Porta)</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105632_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>9</ead:unitid>
+                <ead:unittitle type="title">Rudolf Koch (bergtechnische Arbeit zum Assessorexamen): Ausrichtungsvorschlag für den Übergang vom Stollenbau zum Tiefbau unter der Stollensohle</ead:unittitle>
+                <ead:unitdate normal="1955-01-01/1955-12-31">1955</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105632">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Koch, Rudolf</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105633_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>10</ead:unitid>
+                <ead:unittitle type="title">Klaus Bandlin (Diplomarbeit): Ausrichtung zu dem geplanten Tiefbau nur in der Lagerstätte</ead:unittitle>
+                <ead:unitdate normal="1961-01-01/1961-12-31">1961</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105633">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Bandlin, Klaus</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105634_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>11</ead:unitid>
+                <ead:unittitle type="title">Karl-Heinz Werries (bergmännische Meldearbeit): Betriebsstudien über den Arbeitsablauf in der Gewinnung</ead:unittitle>
+                <ead:unitdate normal="1961-01-01/1961-12-31">1961</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105634">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Werries, Karl-Heinz</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105635_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>12</ead:unitid>
+                <ead:unittitle type="title">Wilhelm Streit (geologische Meldearbeit): Geologisch-lagerstättenkundliche Beurteilung des für den Tiefbau unter der Stollensohle vorgesehenden Feldesteils</ead:unittitle>
+                <ead:unitdate normal="1961-01-01/1961-12-31">1961</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105635">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Streit, Wilhelm</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+        </ead:c>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F10501FF81E0">
+          <ead:did>
+            <ead:unittitle>Eisenerzgrube Damme</ead:unittitle>
+          </ead:did>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105021281E0">
+            <ead:did>
+              <ead:unittitle>Zechenbuch Teil B (Grube Damme)</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105636_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>13</ead:unitid>
+                <ead:unittitle type="title">Betriebspläne und Zulassungen</ead:unittitle>
+                <ead:unitdate normal="1938-01-01/1959-12-31">1938 - 1959</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Grundsatzbetriebsplan für das Eisenerzbergwerk Damme vom 22.10.1938, mit Plänen (1938); Abteufgebäude, mit Plänen und Grundrissen (1939-1940 und 1951); Gefrierarbeiten (1939); Zechenplatz, Zufahrtsstraße und Grubenanschlußbahn, mit Plänen (1939-1959)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105636">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4242499-9">Grubenbahn</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105637_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>14</ead:unitid>
+                <ead:unittitle type="title">Betriebspläne und Zulassungen</ead:unittitle>
+                <ead:unitdate normal="1940-01-01/1954-12-31">1940 - 1954</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Betrieb einer schwebenden Bühne und Seilfahrt beim Abteufen von Schacht Damme 1 (1940-1941); Seilfahrtgenehmigung für Schacht Damme 1 mit provisorischem hölzernen Fördergerüst, mit Nachträgen, Prüfberichten und Anlagen (1943-1953); Umbau der Seilfahrtanlage auf das neue eiserne Doppelstrebengerüst (1954)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105637">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4255904-2">Fördergerüst</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105638_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>15</ead:unitid>
+                <ead:unittitle type="title">Seilfahrtgenehmigung für Schacht Damme 1 nach dem Umbau, mit Anlagen und der Urkunde vom 12.01.1966</ead:unittitle>
+                <ead:unitdate normal="1965-01-01/1966-12-31">1965 - 1966</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105638">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105639_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>16</ead:unitid>
+                <ead:unittitle type="title">Seilfahrtgenehmigung für Schacht Damme 1 nach dem Umbau, mit Anlagen und der Urkunde vom 12.01.1966</ead:unittitle>
+                <ead:unitdate normal="1945-01-01/1956-12-31">1945 - 1956</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Erfolglose Auflage der Bergbehörde zur Schaffung eines zweiten fahrbaren Ausgangs aus der Grube (1945-1953); Abteufen von Schacht Damme 2 und Betrieb einer schwebenden Bühne (1953-1955); Seilfahrt beim Abteufen des Schachts Damme 2 mit Anlagen (1954); Aufstellung des Fördergerüsts und der Fördermaschine (1955-1956)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105639">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4255904-2">Fördergerüst</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Fördermaschine</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105640_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>17</ead:unitid>
+                <ead:unittitle type="title">Seilfahrturkunde für Schacht Damme 2 vom 07.05.1956, mit den Anlagen 1-8</ead:unittitle>
+                <ead:unitdate normal="1956-01-01/1956-12-31">1956</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105640">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105641_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>18</ead:unitid>
+                <ead:unittitle type="title">Anlagen 9-14 und Berechnungsunterlagen zur Seilfahrturkunde vom 07.05.1956</ead:unittitle>
+                <ead:unitdate normal="1956-01-01/1956-12-31">1956</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105641">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105642_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>19</ead:unitid>
+                <ead:unittitle type="title">Nachträge zur Seilfahrtgenehmigung für Schacht Damme 2</ead:unittitle>
+                <ead:unitdate normal="1956-01-01/1962-12-31">1956 - 1962</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Leichtmetallfutter der Treibscheibe vom 19.11.1956;  automatischer Betrieb der Fördermaschine vom 26.08.1958; Kunststofftreibscheibenfutter vom 21.02.1962; Einbau von Hydro-Pass-Stück-Verstellungen vom Mai 1962</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105642">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Fördermaschine</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105643_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>20</ead:unitid>
+                <ead:unittitle type="title">Nachträge zur Seilfahrtgenehmigung für Schacht Damme 2</ead:unittitle>
+                <ead:unitdate normal="1955-01-01/1966-12-31">1955 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Betrieb der Hauptseilfahrtanlage mit Prüfberichten</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105643">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105644_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>21</ead:unitid>
+                <ead:unittitle type="title">Blindschacht von der 3. Sohle (260 m) zur 4. Sohle (330 m) in der 3. westlichen Abteilung</ead:unittitle>
+                <ead:unitdate normal="1962-01-01/1966-12-31">1962 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Abteufen und Seilfahrt beim Abteufen, mit Anlagen; endgültige Seilfahrtanlage, mit Anlagen</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105644">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4145990-8">Blindschacht</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105645_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>22</ead:unitid>
+                <ead:unittitle type="title">Jahresbetriebspläne 1950-1965, mit Plänen und Rissen (vor 1950 wurde der Betrieb aufgrund des Gesamtbetriebplans von 1938 - vgl. 6/13 - und von Sonderbetriebsplänen geführt)</ead:unittitle>
+                <ead:unitdate normal="1950-01-01/1962-12-31">1950 - 1962</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105645">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105646_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>23</ead:unitid>
+                <ead:unittitle type="title">Einzelbetriebspläne für den Tagesbetrieb</ead:unittitle>
+                <ead:unitdate normal="1940-01-01/1963-12-31">1940 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Ausbau der Tagesanlagen, mit Plänen (1952 - 1963); Schmalspurgleisanlage über Tage und Betrieb von Diesellokomotiven, mit Plänen (1940 - 1960); Aufbereitung (1948 - 1959); Grubenholzimprägnierung (1956 - 1958); Sandgewinnung (1961); Grundwasserentnahme (1962)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105646">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Grubenholz</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105647_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>24</ead:unitid>
+                <ead:unittitle type="title">Sicherheit und Gesundheitsschutz</ead:unittitle>
+                <ead:unitdate normal="1948-01-01/1966-12-31">1948 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Brandschutz über Tage, mit Plänen (1948-1966); Brandschutz unter Tage, mit Plänen (1952-1966); Grubenrettungswesen (1949-1967); CO-Filter-Selbstretter (1961-1966); Staubbekämpfung beim Gesteinsstreckenvortrieb (1955-1959); Staubmessungen unter Tage (1953-1966)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105647">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Sicherheit</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Grubenrettungswesen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4131968-0">Staubbekämpfung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Staubmessung</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>CO-Filter</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105648_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>25</ead:unitid>
+                <ead:unittitle type="title">Betriebspläne und Genehmigungen unter Tage</ead:unittitle>
+                <ead:unitdate normal="1941-01-01/1963-12-31">1941 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Förderung unter Tage mit Diesellokomotiven, mit Plänen (1948 - 1965); Einbau einer Förderbandanlage, mit Plänen (1951);  Aus- und Vorrichtung, mit Plänen (1951 - 1960); Wasserhebung und Wasserverbrauch, jährliche Berichte (1955 - 1966); Sprengstoffe, Zündmittel und Sprengstofflager (1941 - 1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105648">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Sprengstoffe</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Wasserversorgung, betrieblich</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105649_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>26</ead:unitid>
+                <ead:unittitle type="title">Betriebspläne und Genehmigungen unter Tage</ead:unittitle>
+                <ead:unitdate normal="1948-01-01/1966-12-31">1948 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Abbauverfahren (1948-1963); Ausbauregeln (1954-1964); Versuchseinsatz mit der Großloch-Kern-Ringbohrmaschine Salzgitter, mit Plänen (1961-1966); Abbauversuch mit dem Walzenschrämlader (1961-1962)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105649">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Großlochbohrmaschine</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Walzenschrämlader</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105650_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>27</ead:unitid>
+                <ead:unittitle type="title">Elektrobuch</ead:unittitle>
+                <ead:unitdate normal="1958-01-01/1966-12-31">1958 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Elektrobetriebspläne, mit Anlagen (1962 - 1964); Einzelanträge über Betriebsscheine, mit Berechnungsunterlagen und Plänen (1964); Betrieb einer Fahrdrahtbahnanlage, mit Plänen (1958 - 1966); Personenbeförderung mit Fahrlokomotiven, mit Plänen (1961 - 1964); besondere Betriebspläne, mit Anlagen (1961 - 1962); Grubenlampenbewirtschaftung (1960 - 1963); Ausbildung von Grubenelektrikern (1961 - 1966)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105650">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Betriebspläne</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, Grubenelektriker</ead:subject>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105020281E0">
+            <ead:did>
+              <ead:unittitle>Betriebsakten der Grube Damme</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105651_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>28</ead:unitid>
+                <ead:unittitle type="title">Aufbereitung</ead:unittitle>
+                <ead:unitdate normal="1949-01-01/1964-12-31">1949 - 1964</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Berichte und Gutachten über Erzuntersuchungen, Aufbereitungsversuche, Untersuchungen der Aufbereitungen, Versuche über Schlammklärung, Nachaufbereitung mit Plänen, Tabellen und Berechnungsunterlagen (1949-1962); Kennzahlen der Aufbereitung und Aufbereitungsergebnisse jeweils für den Monat Juli (1957-1964)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105651">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105652_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>29</ead:unitid>
+                <ead:unittitle type="title">Investitionen</ead:unittitle>
+                <ead:unitdate normal="1953-01-01/1962-12-31">1953 - 1962</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Vertrag mit der westrheinischen Tiefbohr- und Schachtbau-Gesellschaft, Düsseldorf, über das Abteufen des Förder- und Wetterschachts Damme 2 (1953); Förderhaspel für Schacht Damme 2 (1954-1955); Turmfördergerüst in Stahlbeton für Schacht Damme 2 (1955); Fördermaschine für Schacht Damme 1 (1953-1956); Rotationskompressor (1954-1955); Kompressormotor (1954-1955); Kompressor-Schaltanlage (1954); Untersuchungsbohrungen (1954-1956); Blindschachtausrüstung (1962)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105652">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Wetterschacht</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4255904-2">Fördergerüst</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Fördermaschine</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4145990-8">Blindschacht</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Westrheinische Tiefbohr- und Schachtbau GmbH</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105653_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>30</ead:unitid>
+                <ead:unittitle type="title">Bergschäden (allgemein)</ead:unittitle>
+                <ead:unitdate normal="1948-01-01/1966-12-31">1948 - 1966</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Ausweisung von Bergbauschutzflächen, mit Karten (1949-1964);  Grundwasserbeobachtungen (1950); Beobachtungen von Bodenbewegungen und Bergschäden, mit Plänen; Aufstellung der Bergschadenskosten für Damme und Porta für die Jahre 1952 und 1964 (1948-1964); Schriftwechsel zum Flächennutzungsplan der Gemeinde Holdorf von 1951, mit Erläuterungsbericht und Plan (Kopie) (1951-1952); Schriftwechsel über Wohnungsbauprojekte auf bergbaugefährdeten Flächen und im Zusammenhang mit der Aufstellung des Flächennutzungsplans der Gemeinde Damme und der Gemeinde Rieste (1949-1964); Schriftwechsel im Zusammenhang mit Bebauungsplänen in den Gemeinden Hüde und Lembruch, mit Plänen (lückenhaft) (1961-1966)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105653">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4144658-6">Bergschaden</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Werkswohnungsbau</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:geogname>Holdorf</ead:geogname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:geogname>Hüde</ead:geogname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:geogname>Lembruch</ead:geogname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:geogname>Rieste</ead:geogname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105654_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>31</ead:unitid>
+                <ead:unittitle type="title">Bergschäden (speziell)</ead:unittitle>
+                <ead:unitdate normal="1950-01-01/1963-12-31">1950 - 1963</ead:unitdate>
+                <ead:abstract type="enthält u.a.">Bundesbahnstrecke Holdorf-Damme (1950 - 1961); Wohnhaus Ellmann (1952 - 1963); Wohnhaus Fangmann, mit Plänen (1950 - 1961); Gasfernleitung Osnabrück-Bremen, mit Plänen (1961 - 1962); Wohnhaus Bei der Hake (1950 - 1956); Ackerfläche von Handorf (1964); Gasthaus Jägerhof (Rump), mit Plänen (1958 - 1962); Wohnhaus Ludolph (1950 - 1961); Müttererholungs- und Altersheim Maria-Rast, mit Plänen (1951 - 1962); Umgehungsstrasse Damme (1951); Wohnhaus Wehri (1952 - 1963)</ead:abstract>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105654">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject source="GND" authfilenumber="4144658-6">Bergschaden</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:subject>Gasfernleitungen</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Jägerhof Gasthaus</ead:corpname>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:corpname>Müttererholungs- und Altersheim Maria-Rast</ead:corpname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105021681E0">
+            <ead:did>
+              <ead:unittitle>Wissenschaftlich-technische Arbeiten (Grube Damme)</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105655_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>32</ead:unitid>
+                <ead:unittitle type="title">Reinhard Böhme (Diplomarbeit): Abbauverfahren in Damme - Beschreibung der bisherigen Versuche und Vorschlag für die Zukunft</ead:unittitle>
+                <ead:unitdate normal="1951-01-01/1951-12-31">1951</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105655">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Böhme, Reinhard</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105656_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>33</ead:unitid>
+                <ead:unittitle type="title">Peter Jussen (bergmännische Meldearbeit): Mechanisierung der Vortriebsarbeit</ead:unittitle>
+                <ead:unitdate normal="1957-01-01/1957-12-31">1957</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105656">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Jussen, Peter</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105657_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>34</ead:unitid>
+                <ead:unittitle type="title">Udo Dickel (Diplomarbeit): Ausrichtungsplanung unter besonderer Berücksichtigung der zu erwartenden Senkungen (Maria-Rast)</ead:unittitle>
+                <ead:unitdate normal="1958-01-01/1958-12-31">1958</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105657">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Dickel, Udo</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105658_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>35</ead:unitid>
+                <ead:unittitle type="title">Willi Streck (Diplomarbeit, 2 Bde.): Beurteilung des Zuschnitts und des Abbau- und Abbauförderverfahrens im Hinblick auf das Gebirgsverhalten</ead:unittitle>
+                <ead:unitdate normal="1958-01-01/1958-12-31">1958</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105658">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Streck, Willi</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105659_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>36</ead:unitid>
+                <ead:unittitle type="title">Hans Schneider (bergmännische Meldearbeit): Hauptstreckenförderung</ead:unittitle>
+                <ead:unitdate normal="1958-01-01/1958-12-31">1958</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105659">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Schneider, Hans</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105660_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>37</ead:unitid>
+                <ead:unittitle type="title">Jürgen Schubert (bergmännische Arbeit zum Assessorexamen,  2 Bde.): Aufschluß und Aufrichtung des Ostfeldes - Vorschlag einer neuen Schachtanlage östlich des Dümmer Sees</ead:unittitle>
+                <ead:unitdate normal="1960-01-01/1960-12-31">1960</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105660">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:subject>Ausbildung, akademische</ead:subject>
+                </ead:indexentry>
+                <ead:indexentry>
+                  <ead:persname>Schubert, Jürgen</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105661_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>38</ead:unitid>
+                <ead:unittitle type="title">Josef Hachmöller (technische Relation zum Referendar): Abbauverfahren für Mächtigkeiten über 2,50 m</ead:unittitle>
+                <ead:unitdate normal="1960-01-01/1960-12-31">1960</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105661">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Hachmöller, Josef</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105666_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>43</ead:unitid>
+                <ead:unittitle type="title">Hans Dichgans: Zur Lage Erzgrube Damme, Düsseldorf 1963</ead:unittitle>
+                <ead:unitdate normal="1963-01-01/1963-12-31">1963</ead:unitdate>
+                <ead:physdesc>
+                  <ead:genreform normal="Akten"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105666">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+              <ead:index>
+                <ead:indexentry>
+                  <ead:persname>Dichgans, Hans</ead:persname>
+                </ead:indexentry>
+              </ead:index>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105025B81E0">
+            <ead:did>
+              <ead:unittitle>Fotos der Grube Damme</ead:unittitle>
+            </ead:did>
+            <ead:c level="file" id="DE-Bm56_BBA-6_105662_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+              <ead:did>
+                <ead:unitid>39</ead:unitid>
+                <ead:unittitle type="title">Fotoalbum der Schachtanlage Damme</ead:unittitle>
+                <ead:physdesc>
+                  <ead:genreform normal="Bilder"/>
+                </ead:physdesc>
+              </ead:did>
+              <ead:otherfindaid>
+                <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105662">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+              </ead:otherfindaid>
+            </ead:c>
+          </ead:c>
+        </ead:c>
+        <ead:c level="class" id="DE-Bm56_Klass_6D6F6E74-616E-5a64-9b6F-F105025981E0">
+          <ead:did>
+            <ead:unittitle>Geschäftsberichte und Beschreibungen, Erzbergbau Porta-Damme AG, Minden</ead:unittitle>
+          </ead:did>
+          <ead:c level="file" id="DE-Bm56_BBA-6_105663_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>40</ead:unitid>
+              <ead:unittitle type="title">Geschäftsberichte für die Jahre 1956-57, 1957-58, 1958-59</ead:unittitle>
+              <ead:unitdate normal="1957-01-01/1959-12-31">1957 - 1959</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105663">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-6_105664_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>41</ead:unitid>
+              <ead:unittitle type="title">Beschreibung der Eisenerzgrube Porta der Erzbergbau Porta-Damme AG, Dützen bei Minden, mit Fotos, Plänen und historischem Rückblick</ead:unittitle>
+              <ead:unitdate normal="1960-01-01/1960-12-31">1960</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105664">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+          <ead:c level="file" id="DE-Bm56_BBA-6_105665_49a01cc0-c5ab-429b-9063-cf559b3e97b0">
+            <ead:did>
+              <ead:unitid>42</ead:unitid>
+              <ead:unittitle type="title">Beschreibung der Eisenerzgrube Damme der Erzbergbau Porta-Damme AG, Damme bei Oldenburg, mit Fotos, Plänen und historischem Rückblick</ead:unittitle>
+              <ead:unitdate normal="1960-01-01/1960-12-31">1960</ead:unitdate>
+              <ead:physdesc>
+                <ead:genreform normal="Akten"/>
+              </ead:physdesc>
+            </ead:did>
+            <ead:otherfindaid>
+              <ead:extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:role="url_archivalunit" xlink:href="https://www.montandok.de/objekt_start.fau?prj=montandok&amp;dm=Montanhistorisches+Dokumentationszentrum&amp;ref=105665">Titelaufnahme in der Datenbank des montan.dok</ead:extref>
+            </ead:otherfindaid>
+          </ead:c>
+        </ead:c>
+      </ead:c>
+    </ead:dsc>
+  </ead:archdesc>
+</ead:ead>
